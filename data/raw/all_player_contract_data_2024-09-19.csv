@@ -1,0 +1,732 @@
+name,url,cap_hit,cap_hit_pct,base_salary,signing_bonus,contract_start_year,contract_years_signed,contract_years_left,free_agent_year,salary_signed,status_after_contract,age,birthday,experience,country,college,drafted,team_name
+Troy Terry,https://www.spotrac.com/nhl/player/_/id/25051,7000000,7.95,7000000,-,2023,7,6,2030,49000000,UFA,27-16d,Sep 10 1997,6 Years,US,Denver,Round 5 (#148 overall) 2015,Anaheim Ducks
+Cam Fowler,https://www.spotrac.com/nhl/player/_/id/7124,6500000,7.39,7500000,-,2018,8,2,2026,52000000,UFA,32-297d,Dec 05 1991,13 Years,CA,Windsor,Round 1 (#12 overall) 2010,Anaheim Ducks
+John Gibson,https://www.spotrac.com/nhl/player/_/id/8961,6400000,7.27,6400000,-,2019,8,3,2027,51200000,UFA,31-105d,Jun 14 1993,10 Years,US,Kitchener,Round 2 (#39 overall) 2011,Anaheim Ducks
+Alexander Killorn,https://www.spotrac.com/nhl/player/_/id/9271,6250000,7.10,6250000,-,2023,4,3,2027,25000000,UFA,35-14d,Sep 14 1989,11 Years,CA,Harvard,Round 3 (#77 overall) 2007,Anaheim Ducks
+Trevor Zegras,https://www.spotrac.com/nhl/player/_/id/31633,5750000,6.53,5750000,-,2023,3,2,2026,17250000,RFA,23-189d,Mar 20 2001,3 Years,US,USA U-18,Round 1 (#9 overall) 2019,Anaheim Ducks
+Ryan Strome,https://www.spotrac.com/nhl/player/_/id/8424,5000000,5.68,5000000,-,2022,5,3,2027,25000000,UFA,31-79d,Jul 10 1993,10 Years,CA,Niagara,Undrafted NYI 2011,Anaheim Ducks
+Robby Fabbri,https://www.spotrac.com/nhl/player/_/id/15819,4000000,4.55,4250000,-,2022,3,1,2025,12000000,UFA,28-248d,Jan 22 1996,8 Years,CA,Guelph,Round 1 (#21 overall) 2014,Anaheim Ducks
+Radko Gudas,https://www.spotrac.com/nhl/player/_/id/7007,4000000,4.55,4000000,-,2023,3,2,2026,12000000,UFA,34-115d,Jun 05 1990,11 Years,CZ,Everett,Round 3 (#66 overall) 2010,Anaheim Ducks
+Frank Vatrano,https://www.spotrac.com/nhl/player/_/id/16480,3650000,4.15,3650000,-,2022,3,1,2025,10950000,UFA,30-197d,Mar 14 1994,8 Years,US,Massachusetts,Undrafted BOS 2015,Anaheim Ducks
+Brian Dumoulin,https://www.spotrac.com/nhl/player/_/id/9553,3150000,3.58,3000000,-,2023,2,1,2025,6300000,UFA,33-22d,Sep 06 1991,9 Years,US,Boston College,Round 2 (#51 overall) 2009,Anaheim Ducks
+Brock McGinn,https://www.spotrac.com/nhl/player/_/id/10794,2750000,3.13,2750000,-,2021,4,1,2025,11000000,UFA,30-237d,Feb 02 1994,8 Years,CA,Guelph,Round 2 (#47 overall) 2012,Anaheim Ducks
+Isac Lundestrom,https://www.spotrac.com/nhl/player/_/id/27086,1500000,1.70,1500000,-,2024,1,1,2025,1500000,UFA,24-324d,Nov 06 1999,5 Years,SE,Lulea,Round 1 (#23 overall) 2018,Anaheim Ducks
+Ross Johnston,https://www.spotrac.com/nhl/player/_/id/16614,1100000,1.25,1100000,-,2022,4,2,2026,4400000,UFA,30-221d,Feb 18 1994,6 Years,CA,Moncton,Undrafted NYI 2015,Anaheim Ducks
+Urho Vaakanainen,https://www.spotrac.com/nhl/player/_/id/23697,1100000,1.25,1100000,-,2024,1,1,2025,1100000,UFA,25-268d,Jan 01 1999,4 Years,FI,JYP,Round 1 (#18 overall) 2017,Anaheim Ducks
+Brett Leason,https://www.spotrac.com/nhl/player/_/id/31680,1050000,1.19,1050000,-,2024,1,1,2025,1050000,UFA,25-149d,Apr 30 1999,2 Years,CA,Prince Albert,Round 2 (#56 overall) 2019,Anaheim Ducks
+Leo Carlsson,https://www.spotrac.com/nhl/player/_/id/84490,950000,1.08,855000,95000,2023,3,2,2026,12600000,RFA,19-272d,Dec 26 2004,,SE,,Round 1 (#2 overall) 2023,Anaheim Ducks
+Cutter Gauthier,https://www.spotrac.com/nhl/player/_/id/78315,950000,1.08,855000,95000,2023,3,2,2026,5700000,RFA,20-249d,Jan 19 2004,,SE,,Round 1 (#5 overall) 2022,Anaheim Ducks
+Jackson Lacombe,https://www.spotrac.com/nhl/player/_/id/31663,925000,1.05,925000,-,2024,2,2,2026,1850000,RFA,23-259d,Jan 09 2001,1 Years,US,St. Mary's,Round 2 (#39 overall) 2019,Anaheim Ducks
+Pavel Mintyukov,https://www.spotrac.com/nhl/player/_/id/78320,918333,1.04,855000,95000,2023,3,2,2026,5200000,RFA,20-304d,Nov 25 2003,,RU,,Round 1 (#10 overall) 2022,Anaheim Ducks
+Mason Mctavish,https://www.spotrac.com/nhl/player/_/id/73756,894167,1.02,832500,-,2022,3,1,2025,10275000,RFA,21-238d,Jan 30 2003,2 Years,CA,Peterborough,Round 1 (#3 overall) 2021,Anaheim Ducks
+Olen Zellweger,https://www.spotrac.com/nhl/player/_/id/73790,844167,0.96,832500,-,2023,3,2,2026,2775000,RFA,21-15d,Sep 10 2003,,CA,Everett,Round 2 (#34 overall) 2021,Anaheim Ducks
+Lukas Dostal,https://www.spotrac.com/nhl/player/_/id/27155,812500,0.92,850000,-,2023,2,1,2025,1625000,RFA,24-95d,Jun 22 2000,2 Years,CZ,Trebic,Round 3 (#85 overall) 2018,Anaheim Ducks
+Jansen Harkins,https://www.spotrac.com/nhl/player/_/id/21705,787500,0.89,775000,-,2024,2,2,2026,1575000,UFA,27-126d,May 23 1997,2 Years,CA,Prince George,Round 2 (#47 overall) 2015,Anaheim Ducks
+David Pastrnak,https://www.spotrac.com/nhl/player/_/id/15582,11250000,12.78,8500000,4500000,2023,8,7,2031,90000000,UFA,28-124d,May 25 1996,9 Years,CZ,Sodertalje SK,Round 1 (#25 overall) 2014,Boston Bruins
+Charles Mcavoy,https://www.spotrac.com/nhl/player/_/id/20296,9500000,10.80,8500000,3000000,2022,8,6,2030,76000000,UFA,26-279d,Dec 21 1997,6 Years,US,Boston,Round 1 (#14 overall) 2016,Boston Bruins
+Elias Lindholm,https://www.spotrac.com/nhl/player/_/id/13425,7750000,8.81,6000000,4000000,2024,7,7,2031,54250000,UFA,29-299d,Dec 02 1994,10 Years,SE,Brynas,Round 1 (#5 overall) 2013,Boston Bruins
+Hampus Lindholm,https://www.spotrac.com/nhl/player/_/id/10753,6500000,7.39,6000000,2000000,2022,8,6,2030,52000000,UFA,30-250d,Jan 20 1994,10 Years,SE,Rogle,Round 1 (#6 overall) 2012,Boston Bruins
+Brad Marchand,https://www.spotrac.com/nhl/player/_/id/7125,6125000,6.96,1000000,3000000,2017,8,1,2025,49000000,UFA,36-140d,May 11 1988,14 Years,CA,Moncton,Round 3 (#71 overall) 2006,Boston Bruins
+Charlie Coyle,https://www.spotrac.com/nhl/player/_/id/8824,5250000,5.97,4500000,-,2020,6,2,2026,31500000,UFA,32-209d,Mar 02 1992,11 Years,US,Boston,Round 1 (#28 overall) 2010,Boston Bruins
+Nikita Zadorov,https://www.spotrac.com/nhl/player/_/id/13564,5000000,5.68,2000000,4000000,2024,6,6,2030,30000000,UFA,29-164d,Apr 16 1995,10 Years,RU,London,Round 1 (#16 overall) 2013,Boston Bruins
+Pavel Zacha,https://www.spotrac.com/nhl/player/_/id/18112,4750000,5.40,3750000,1000000,2023,4,3,2027,19000000,UFA,27-173d,Apr 06 1997,8 Years,CZ,Sarnia,Round 1 (#6 overall) 2015,Boston Bruins
+Brandon Carlo,https://www.spotrac.com/nhl/player/_/id/18250,4100000,4.66,5450000,-,2021,6,3,2027,24600000,UFA,27-304d,Nov 26 1996,7 Years,US,Tri-City,Round 2 (#37 overall) 2015,Boston Bruins
+Joonas Korpisalo,https://www.spotrac.com/nhl/player/_/id/16632,4000000,4.55,5000000,-,2023,5,4,2028,20000000,UFA,30-152d,Apr 28 1994,7 Years,FI,Jokerit,Round 3 (#62 overall) 2012,Boston Bruins
+Andrew Peeke,https://www.spotrac.com/nhl/player/_/id/20319,2750000,3.13,2750000,-,2023,3,2,2026,8250000,UFA,26-193d,Mar 17 1998,4 Years,US,Green Bay,Round 2 (#34 overall) 2016,Boston Bruins
+Trent Frederic,https://www.spotrac.com/nhl/player/_/id/20313,2300000,2.61,2300000,-,2023,2,1,2025,4600000,UFA,26-227d,Feb 11 1998,5 Years,US,USA U-18,Round 1 (#29 overall) 2016,Boston Bruins
+Morgan Geekie,https://www.spotrac.com/nhl/player/_/id/23789,2000000,2.27,2000000,-,2023,2,1,2025,4000000,RFA,26-68d,Jul 20 1998,4 Years,CA,Tri-City,Round 3 (#67 overall) 2017,Boston Bruins
+Max Jones,https://www.spotrac.com/nhl/player/_/id/20308,1000000,1.14,1000000,-,2024,2,2,2026,2000000,UFA,26-221d,Feb 17 1998,5 Years,US,London,Round 1 (#24 overall) 2016,Boston Bruins
+John Beecher,https://www.spotrac.com/nhl/player/_/id/31653,925000,1.05,832500,92500,2022,3,1,2025,2775000,RFA,23-173d,Apr 05 2001,,US,USA U-18,Round 1 (#30 overall) 2019,Boston Bruins
+Mason Lohrei,https://www.spotrac.com/nhl/player/_/id/62918,925000,1.05,832500,92500,2023,2,1,2025,2100000,RFA,23-251d,Jan 17 2001,,US,,Round 2 (#58 overall) 2020,Boston Bruins
+Matthew Poitras,https://www.spotrac.com/nhl/player/_/id/78364,870000,0.99,775000,95000,2023,3,2,2026,2850000,RFA,20-198d,Mar 10 2004,,CA,,Round 2 (#54 overall) 2022,Boston Bruins
+Mark Kastelic,https://www.spotrac.com/nhl/player/_/id/31749,835000,0.95,870000,-,2023,2,1,2025,1670000,RFA,25-199d,Mar 11 1999,1 Years,US,Calgary,Round 5 (#125 overall) 2019,Boston Bruins
+Patrick Brown,https://www.spotrac.com/nhl/player/_/id/15252,800000,0.91,800000,-,2023,2,1,2025,1600000,UFA,32-121d,May 29 1992,6 Years,,Boston College,Undrafted CAR 2014,Boston Bruins
+Parker Wotherspoon,https://www.spotrac.com/nhl/player/_/id/19696,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,27-64d,Jul 24 1997,,CA,Tri-City,Round 4 (#112 overall) 2015,Boston Bruins
+Justin Brazeau,https://www.spotrac.com/nhl/player/_/id/89371,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,26-236d,Feb 02 1998,,CA,,Undrafted BOS 2024,Boston Bruins
+Vinni Lettieri,https://www.spotrac.com/nhl/player/_/id/21683,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,29-233d,Feb 06 1995,4 Years,US,Minnesota,Undrafted NYR 2017,Boston Bruins
+Rasmus Dahlin,https://www.spotrac.com/nhl/player/_/id/27037,11000000,12.50,8000000,5000000,2024,8,8,2032,88000000,UFA,24-165d,Apr 13 2000,5 Years,SE,Frolunda,Round 1 (#1 overall) 2018,Buffalo Sabres
+Owen Power,https://www.spotrac.com/nhl/player/_/id/73753,8350000,9.49,6350000,2000000,2024,7,7,2031,58450000,UFA,21-307d,Nov 22 2002,2 Years,CA,Michigan,Round 1 (#1 overall) 2021,Buffalo Sabres
+Tage Thompson,https://www.spotrac.com/nhl/player/_/id/20310,7142857,8.12,7142857,-,2023,7,6,2030,49999999,UFA,26-331d,Oct 30 1997,6 Years,US,Connecticut,Round 1 (#26 overall) 2016,Buffalo Sabres
+Dylan Cozens,https://www.spotrac.com/nhl/player/_/id/31631,7100000,8.07,7100000,-,2023,7,6,2030,49700000,UFA,23-228d,Feb 09 2001,3 Years,CA,Lethbridge,Round 1 (#7 overall) 2019,Buffalo Sabres
+Jason Zucker,https://www.spotrac.com/nhl/player/_/id/9384,5000000,5.68,5000000,-,2024,1,1,2025,5000000,UFA,32-255d,Jan 16 1992,12 Years,CA,Denver,Round 2 (#59 overall) 2010,Buffalo Sabres
+Alex Tuch,https://www.spotrac.com/nhl/player/_/id/18929,4750000,5.40,4750000,-,2019,7,2,2026,33250000,UFA,28-139d,May 10 1996,7 Years,US,Boston College,Round 1 (#18 overall) 2014,Buffalo Sabres
+Ukko-Pekka Luukkonen,https://www.spotrac.com/nhl/player/_/id/26583,4750000,5.40,2750000,2000000,2024,5,5,2029,23750000,UFA,25-201d,Mar 09 1999,3 Years,FI,HPK,Round 2 (#54 overall) 2017,Buffalo Sabres
+Mattias Samuelsson,https://www.spotrac.com/nhl/player/_/id/27101,4285714,4.87,4285714,-,2023,7,6,2030,30000000,UFA,24-195d,Mar 14 2000,3 Years,US,USA U-18,Round 2 (#32 overall) 2018,Buffalo Sabres
+Bowen Byram,https://www.spotrac.com/nhl/player/_/id/31628,3850000,4.38,4620000,-,2023,2,1,2025,7700000,RFA,23-104d,Jun 13 2001,3 Years,CA,Vancouver,Round 1 (#4 overall) 2019,Buffalo Sabres
+Connor Clifton,https://www.spotrac.com/nhl/player/_/id/25723,3333333,3.79,3333333,-,2023,3,2,2026,10000000,UFA,29-152d,Apr 28 1995,5 Years,US,Providence,Undrafted BOS 2018,Buffalo Sabres
+Henri Jokiharju,https://www.spotrac.com/nhl/player/_/id/23708,3100000,3.52,3100000,-,2024,1,1,2025,3100000,UFA,25-101d,Jun 17 1999,5 Years,FI,Portland,Round 1 (#29 overall) 2017,Buffalo Sabres
+Jordan Greenway,https://www.spotrac.com/nhl/player/_/id/25046,3000000,3.41,3000000,-,2022,3,1,2025,9000000,UFA,27-222d,Feb 16 1997,6 Years,US,Boston,Round 2 (#50 overall) 2015,Buffalo Sabres
+Ryan McLeod,https://www.spotrac.com/nhl/player/_/id/27109,2100000,2.39,2100000,-,2023,2,1,2025,4200000,RFA,24-5d,Sep 21 1999,3 Years,CA,Mississauga,Round 2 (#40 overall) 2018,Buffalo Sabres
+Sam Lafferty,https://www.spotrac.com/nhl/player/_/id/25003,2000000,2.27,1000000,1000000,2024,2,2,2026,4000000,UFA,29-205d,Mar 06 1995,3 Years,US,Brown,Round 4 (#113 overall) 2014,Buffalo Sabres
+Nicolas Aube-Kubel,https://www.spotrac.com/nhl/player/_/id/15885,1500000,1.70,1500000,-,2024,1,1,2025,1500000,UFA,28-139d,May 10 1996,4 Years,CA,Val-d'Or,Round 2 (#48 overall) 2014,Buffalo Sabres
+Peyton Krebs,https://www.spotrac.com/nhl/player/_/id/31641,1450000,1.65,-,-,2024,2,2,2026,2900000,RFA,23-242d,Jan 26 2001,3 Years,CA,Kootenay,Round 1 (#17 overall) 2019,Buffalo Sabres
+Beck Malenstyn,https://www.spotrac.com/nhl/player/_/id/20432,1350000,1.53,-,-,2024,2,2,2026,2700000,RFA,26-234d,Feb 04 1998,,CA,Calgary,Round 5 (#145 overall) 2016,Buffalo Sabres
+James Reimer,https://www.spotrac.com/nhl/player/_/id/8033,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,36-197d,Mar 15 1988,13 Years,CA,Red Deer,Round 4 (#99 overall) 2006,Buffalo Sabres
+Zach Benson,https://www.spotrac.com/nhl/player/_/id/84501,950000,1.08,855000,95000,2023,3,2,2026,4800000,RFA,19-135d,May 12 2005,,CA,,Round 1 (#13 overall) 2023,Buffalo Sabres
+Devon Levi,https://www.spotrac.com/nhl/player/_/id/63073,925000,1.05,832500,92500,2022,3,1,2025,4700000,RFA,22-272d,Dec 27 2001,1 Years,CA,,Round 7 (#212 overall) 2020,Buffalo Sabres
+Jacob Bryson,https://www.spotrac.com/nhl/player/_/id/27064,900000,1.02,900000,-,2024,1,1,2025,900000,UFA,26-312d,Nov 18 1997,3 Years,CA,Providence,Round 4 (#99 overall) 2017,Buffalo Sabres
+Jack Quinn,https://www.spotrac.com/nhl/player/_/id/62865,863333,0.98,832500,-,2022,3,1,2025,5325000,RFA,23-6d,Sep 19 2001,2 Years,CA,,Round 1 (#8 overall) 2020,Buffalo Sabres
+John-Jason Peterka,https://www.spotrac.com/nhl/player/_/id/62895,855833,0.97,832500,-,2022,3,1,2025,2775000,RFA,22-254d,Jan 14 2002,2 Years,DE,,Round 2 (#34 overall) 2020,Buffalo Sabres
+Jonathan Huberdeau,https://www.spotrac.com/nhl/player/_/id/8418,10500000,11.93,3500000,7000000,2023,8,7,2031,84000000,UFA,31-116d,Jun 03 1993,11 Years,CA,Saint John,Round 1 (#3 overall) 2011,Calgary Flames
+Nazem Kadri,https://www.spotrac.com/nhl/player/_/id/8413,7000000,7.95,4500000,2500000,2022,7,5,2029,49000000,UFA,33-357d,Oct 06 1990,14 Years,CA,Kitchener,Round 1 (#7 overall) 2009,Calgary Flames
+MacKenzie Weegar,https://www.spotrac.com/nhl/player/_/id/15278,6250000,7.10,4250000,2000000,2023,8,7,2031,50000000,UFA,30-263d,Jan 07 1994,7 Years,CA,Halifax,Round 7 (#206 overall) 2013,Calgary Flames
+Andrei Kuzmenko,https://www.spotrac.com/nhl/player/_/id/78104,5500000,6.25,4500000,1000000,2023,2,1,2025,11000000,UFA,28-235d,Feb 04 1996,,RU,,Undrafted VAN 2022,Calgary Flames
+Blake Coleman,https://www.spotrac.com/nhl/player/_/id/17953,4900000,5.57,4900000,-,2021,6,3,2027,29400000,UFA,32-304d,Nov 28 1991,7 Years,US,Miami (OH),Round 3 (#74 overall) 2011,Calgary Flames
+Rasmus Andersson,https://www.spotrac.com/nhl/player/_/id/18225,4550000,5.17,4550000,-,2020,6,2,2026,27300000,UFA,27-334d,Oct 27 1996,7 Years,SE,Malmo,Round 2 (#53 overall) 2015,Calgary Flames
+Mikael Backlund,https://www.spotrac.com/nhl/player/_/id/7127,4500000,5.11,4500000,-,2024,2,2,2026,9000000,UFA,35-195d,Mar 17 1989,15 Years,SE,Vasteras,Round 1 (#24 overall) 2007,Calgary Flames
+Anthony Mantha,https://www.spotrac.com/nhl/player/_/id/13646,3500000,3.98,3500000,-,2024,1,1,2025,3500000,UFA,30-11d,Sep 16 1994,7 Years,CA,Val-d'Or,Round 1 (#20 overall) 2013,Calgary Flames
+Yegor Sharangovich,https://www.spotrac.com/nhl/player/_/id/27212,3100000,3.52,3100000,-,2025,5,6,2030,28750000,UFA,26-112d,Jun 06 1998,3 Years,BY,Dynamo Minsk,Round 5 (#141 overall) 2018,Calgary Flames
+Daniel Vladar,https://www.spotrac.com/nhl/player/_/id/18946,2200000,2.50,2200000,-,2023,2,1,2025,4400000,UFA,27-37d,Aug 20 1997,3 Years,CZ,,Round 3 (#75 overall) 2015,Calgary Flames
+Ryan Lomberg,https://www.spotrac.com/nhl/player/_/id/21661,2000000,2.27,1500000,500000,2024,2,2,2026,4000000,UFA,29-292d,Dec 09 1994,4 Years,CA,Maine,,Calgary Flames
+Jake Bean,https://www.spotrac.com/nhl/player/_/id/20295,1750000,1.99,1750000,-,2024,2,2,2026,3500000,UFA,26-109d,Jun 09 1998,4 Years,CA,Calgary,Round 1 (#13 overall) 2016,Calgary Flames
+Kevin Rooney,https://www.spotrac.com/nhl/player/_/id/21576,1300000,1.48,1300000,-,2024,1,1,2025,1300000,UFA,31-129d,May 21 1993,6 Years,US,Providence,Undrafted NJD 2017,Calgary Flames
+Daniil Miromanov,https://www.spotrac.com/nhl/player/_/id/72082,1250000,1.42,1250000,-,2024,2,2,2026,2500000,UFA,27-77d,Jul 11 1997,,RU,,Undrafted VGK 2021,Calgary Flames
+Kevin Bahl,https://www.spotrac.com/nhl/player/_/id/27124,1050000,1.19,1200000,-,2023,2,1,2025,2100000,RFA,24-90d,Jun 27 2000,2 Years,CA,Ottawa,Round 2 (#55 overall) 2018,Calgary Flames
+Martin Pospisil,https://www.spotrac.com/nhl/player/_/id/27175,1000000,1.14,1000000,-,2024,2,2,2026,2000000,RFA,24-311d,Nov 19 1999,,SK,Sioux City Musketeers,Round 4 (#105 overall) 2018,Calgary Flames
+Matthew Coronato,https://www.spotrac.com/nhl/player/_/id/73767,925000,1.05,832500,92500,2022,3,1,2025,4475000,RFA,21-315d,Nov 14 2002,1 Years,US,Chicago (USHL),Round 1 (#13 overall) 2021,Calgary Flames
+Connor Zary,https://www.spotrac.com/nhl/player/_/id/62881,863333,0.98,832500,-,2022,3,1,2025,3200000,RFA,22-0d,Sep 25 2001,,CA,,Round 1 (#24 overall) 2020,Calgary Flames
+Dustin Wolf,https://www.spotrac.com/nhl/player/_/id/31838,850000,0.97,850000,-,2024,2,2,2026,1700000,RFA,23-162d,Apr 16 2001,,US,Everett,Round 7 (#214 overall) 2019,Calgary Flames
+Walker Duehr,https://www.spotrac.com/nhl/player/_/id/72246,825000,0.94,875000,-,2023,2,1,2025,1650000,UFA,26-307d,Nov 23 1997,2 Years,US,,Undrafted CGY 2021,Calgary Flames
+Joel Hanley,https://www.spotrac.com/nhl/player/_/id/18005,787500,0.89,800000,-,2023,2,1,2025,1575000,UFA,33-112d,Jun 08 1991,8 Years,US,Massachusetts,Undrafted MTL 2015,Calgary Flames
+Dryden Hunt,https://www.spotrac.com/nhl/player/_/id/18788,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,28-307d,Nov 24 1995,6 Years,CA,Regina,,Calgary Flames
+Brayden Pachal,https://www.spotrac.com/nhl/player/_/id/71115,775000,0.88,775000,-,2023,2,1,2025,1550000,RFA,25-34d,Aug 23 1999,,CA,,,Calgary Flames
+Sebastian Aho,https://www.spotrac.com/nhl/player/_/id/19956,9750000,11.08,10000000,2000000,2024,8,8,2032,78000000,UFA,27-62d,Jul 26 1997,7 Years,FI,Karpat,Undrafted CAR 2016,Carolina Hurricanes
+Andrei Svechnikov,https://www.spotrac.com/nhl/player/_/id/27038,7750000,8.81,9000000,-,2021,8,5,2029,62000000,UFA,24-183d,Mar 26 2000,5 Years,RU,Barrie,Round 1 (#2 overall) 2018,Carolina Hurricanes
+Dmitry Orlov,https://www.spotrac.com/nhl/player/_/id/8756,7750000,8.81,7750000,-,2023,2,1,2025,15500000,UFA,33-67d,Jul 23 1991,11 Years,RU,Novokuznetsk,Round 2 (#55 overall) 2009,Carolina Hurricanes
+Seth Jarvis,https://www.spotrac.com/nhl/player/_/id/62870,7420087,8.43,2000000,8950000,2024,8,8,2032,63200000,UFA,22-236d,Feb 01 2002,2 Years,CA,,Round 1 (#13 overall) 2020,Carolina Hurricanes
+Martin Necas,https://www.spotrac.com/nhl/player/_/id/23691,6500000,7.39,3000000,3000000,2024,2,2,2026,13000000,UFA,25-254d,Jan 15 1999,6 Years,CZ,Brno,Round 1 (#12 overall) 2017,Carolina Hurricanes
+Jaccob Slavin,https://www.spotrac.com/nhl/player/_/id/17956,5300000,6.02,5200000,-,2025,8,9,2033,51690000,UFA,30-149d,May 01 1994,8 Years,US,Colorado College,Round 4 (#120 overall) 2012,Carolina Hurricanes
+Brent Burns,https://www.spotrac.com/nhl/player/_/id/1796,8000000,9.09,3000000,2000000,2017,8,1,2025,64000000,UFA,39-204d,Mar 09 1985,19 Years,CA,Brampton,Round 1 (#20 overall) 2003,Carolina Hurricanes
+Jesperi Kotkaniemi,https://www.spotrac.com/nhl/player/_/id/27039,4820000,5.48,4820000,-,2022,8,6,2030,38560000,UFA,24-81d,Jul 06 2000,5 Years,FI,Assat Pori,Round 1 (#3 overall) 2018,Carolina Hurricanes
+Sean Walker,https://www.spotrac.com/nhl/player/_/id/27352,3600000,4.09,4000000,1000000,2024,5,5,2029,18000000,UFA,29-318d,Nov 13 1994,4 Years,CA,Bowling Green,Undrafted LAK 2018,Carolina Hurricanes
+Frederik Andersen,https://www.spotrac.com/nhl/player/_/id/10994,3400000,3.86,3100000,-,2023,2,1,2025,6800000,UFA,34-361d,Oct 02 1989,10 Years,DK,Frederikshavn,Round 3 (#87 overall) 2012,Carolina Hurricanes
+Shayne Gostisbehere,https://www.spotrac.com/nhl/player/_/id/15249,3200000,3.64,3000000,1000000,2024,3,3,2027,9600000,UFA,31-160d,Apr 20 1993,9 Years,US,Union,Round 3 (#78 overall) 2012,Carolina Hurricanes
+Jordan Martinook,https://www.spotrac.com/nhl/player/_/id/10804,3050000,3.47,1000000,2800000,2024,3,3,2027,9150000,UFA,32-64d,Jul 25 1992,9 Years,CA,Vancouver,Round 2 (#58 overall) 2012,Carolina Hurricanes
+Jalen Chatfield,https://www.spotrac.com/nhl/player/_/id/21642,3000000,3.41,1000000,2750000,2024,3,3,2027,9000000,UFA,28-133d,May 16 1996,3 Years,US,Windsor,,Carolina Hurricanes
+Jordan Staal,https://www.spotrac.com/nhl/player/_/id/2028,2900000,3.30,3410000,-,2023,4,3,2027,11600000,UFA,36-18d,Sep 10 1988,17 Years,CA,Peterborough,Round 1 (#2 overall) 2006,Carolina Hurricanes
+Jack Roslovic,https://www.spotrac.com/nhl/player/_/id/20888,2800000,3.18,2800000,-,2024,1,1,2025,2800000,UFA,27-240d,Jan 29 1997,7 Years,US,Miami (OH),Round 1 (#25 overall) 2015,Carolina Hurricanes
+Jesper Fast,https://www.spotrac.com/nhl/player/_/id/10713,2400000,2.73,2400000,-,2023,2,1,2025,4800000,UFA,32-300d,Dec 02 1991,10 Years,SE,HV 71,Round 6 (#157 overall) 2010,Carolina Hurricanes
+Pyotr Kochetkov,https://www.spotrac.com/nhl/player/_/id/31660,2000000,2.27,1750000,-,2023,4,3,2027,8000000,UFA,25-93d,Jun 25 1999,,RU,Ryazan,Round 2 (#36 overall) 2019,Carolina Hurricanes
+William Carrier,https://www.spotrac.com/nhl/player/_/id/13498,2000000,2.27,1000000,1500000,2024,6,6,2030,12000000,UFA,29-281d,Dec 20 1994,6 Years,CA,Cape Breton,Round 2 (#57 overall) 2013,Carolina Hurricanes
+Jack Drury,https://www.spotrac.com/nhl/player/_/id/27111,1725000,1.96,775000,1000000,2024,2,2,2026,3450000,RFA,24-235d,Feb 03 2000,2 Years,US,Waterloo,Round 2 (#42 overall) 2018,Carolina Hurricanes
+Eric Robinson,https://www.spotrac.com/nhl/player/_/id/25053,950000,1.08,950000,-,2024,1,1,2025,950000,UFA,29-105d,Jun 14 1995,6 Years,US,Princeton,Undrafted CBJ 2018,Carolina Hurricanes
+Tyson Jost,https://www.spotrac.com/nhl/player/_/id/20292,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,26-196d,Mar 14 1998,7 Years,CA,Penticton,Round 1 (#10 overall) 2016,Carolina Hurricanes
+Brendan Lemieux,https://www.spotrac.com/nhl/player/_/id/17964,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,28-195d,Mar 15 1996,6 Years,US,Barrie,Round 2 (#31 overall) 2014,Carolina Hurricanes
+Riley Stillman,https://www.spotrac.com/nhl/player/_/id/20401,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,26-201d,Mar 09 1998,4 Years,CA,Oshawa,Round 4 (#114 overall) 2016,Carolina Hurricanes
+Seth Jones,https://www.spotrac.com/nhl/player/_/id/13407,9500000,10.80,7500000,5000000,2022,8,6,2030,76000000,UFA,29-359d,Oct 03 1994,10 Years,US,Portland,Round 1 (#4 overall) 2013,Chicago Blackhawks
+Taylor Hall,https://www.spotrac.com/nhl/player/_/id/6944,6000000,6.82,5250000,-,2021,4,1,2025,24000000,UFA,32-318d,Nov 14 1991,13 Years,CA,Windsor,Round 1 (#1 overall) 2010,Chicago Blackhawks
+Tyler Bertuzzi,https://www.spotrac.com/nhl/player/_/id/15903,5500000,6.25,2000000,5000000,2024,4,4,2028,22000000,UFA,29-215d,Feb 24 1995,6 Years,CA,Guelph,Round 2 (#58 overall) 2013,Chicago Blackhawks
+Teuvo Teravainen,https://www.spotrac.com/nhl/player/_/id/10765,5400000,6.14,2000000,4200000,2024,3,3,2027,16200000,UFA,30-16d,Sep 11 1994,10 Years,FI,Jokerit,Round 1 (#18 overall) 2012,Chicago Blackhawks
+Alex Vlasic,https://www.spotrac.com/nhl/player/_/id/31667,4600000,5.23,1500000,4500000,2024,6,6,2030,27600000,UFA,23-112d,Jun 05 2001,2 Years,US,USA U-18,Round 2 (#43 overall) 2019,Chicago Blackhawks
+Nick Foligno,https://www.spotrac.com/nhl/player/_/id/1947,4500000,5.11,2600000,2500000,2024,2,2,2026,9000000,UFA,36-334d,Oct 30 1987,16 Years,US,Sudbury,Round 1 (#28 overall) 2006,Chicago Blackhawks
+Connor Murphy,https://www.spotrac.com/nhl/player/_/id/8351,4400000,5.00,5150000,-,2022,4,2,2026,17600000,UFA,31-185d,Mar 26 1993,10 Years,US,Sarnia,Round 1 (#20 overall) 2011,Chicago Blackhawks
+Jason Dickinson,https://www.spotrac.com/nhl/player/_/id/15276,4250000,4.83,3850000,1000000,2024,2,2,2026,8500000,UFA,30-85d,Jul 04 1994,8 Years,CA,Guelph,Round 1 (#29 overall) 2013,Chicago Blackhawks
+Petr Mrazek,https://www.spotrac.com/nhl/player/_/id/8433,4250000,4.83,3850000,1000000,2024,2,2,2026,8500000,UFA,32-226d,Feb 14 1992,11 Years,CZ,Ottawa,Round 5 (#141 overall) 2010,Chicago Blackhawks
+Andreas Athanasiou,https://www.spotrac.com/nhl/player/_/id/13747,4250000,4.83,2250000,2000000,2023,2,1,2025,8500000,UFA,30-52d,Aug 06 1994,8 Years,CA,London,Round 4 (#110 overall) 2012,Chicago Blackhawks
+Ilya Mikheyev,https://www.spotrac.com/nhl/player/_/id/29812,4750000,5.40,5150000,-,2022,4,2,2026,19000000,UFA,29-352d,Oct 10 1994,,RU,,Undrafted TOR 2019,Chicago Blackhawks
+Alec Martinez,https://www.spotrac.com/nhl/player/_/id/7151,4000000,4.55,4000000,-,2024,1,1,2025,4000000,UFA,37-66d,Jul 25 1987,13 Years,US,Miami (OH),Round 4 (#95 overall) 2007,Chicago Blackhawks
+T.J. Brodie,https://www.spotrac.com/nhl/player/_/id/8811,3750000,4.26,775000,3500000,2024,2,2,2026,7500000,UFA,34-113d,Jun 07 1990,12 Years,CA,Saginaw,Round 4 (#114 overall) 2008,Chicago Blackhawks
+Laurent Brossoit,https://www.spotrac.com/nhl/player/_/id/12196,3300000,3.75,2300000,1000000,2024,2,2,2026,6600000,UFA,31-188d,Mar 23 1993,8 Years,CA,Edmonton,Round 6 (#163 overall) 2011,Chicago Blackhawks
+Philipp Kurashev,https://www.spotrac.com/nhl/player/_/id/27190,2250000,2.56,2250000,-,2023,2,1,2025,4500000,RFA,24-349d,Oct 12 1999,3 Years,CH,Quebec,Round 4 (#120 overall) 2018,Chicago Blackhawks
+Ryan Donato,https://www.spotrac.com/nhl/player/_/id/25025,2000000,2.27,2000000,-,2023,2,1,2025,4000000,UFA,28-170d,Apr 09 1996,6 Years,US,Harvard,Round 2 (#56 overall) 2014,Chicago Blackhawks
+Patrick Maroon,https://www.spotrac.com/nhl/player/_/id/8297,1300000,1.48,1300000,-,2024,1,1,2025,1300000,UFA,36-158d,Apr 23 1988,11 Years,US,London,Round 6 (#161 overall) 2007,Chicago Blackhawks
+Lukas Reichel,https://www.spotrac.com/nhl/player/_/id/62874,1200000,1.36,1100000,-,2024,2,2,2026,2400000,RFA,22-131d,May 17 2002,2 Years,DE,,Round 1 (#17 overall) 2020,Chicago Blackhawks
+Craig Smith,https://www.spotrac.com/nhl/player/_/id/8340,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,35-23d,Sep 05 1989,12 Years,US,Wisconsin,Round 4 (#98 overall) 2009,Chicago Blackhawks
+Connor Bedard,https://www.spotrac.com/nhl/player/_/id/84489,950000,1.08,855000,95000,2023,3,2,2026,13350000,RFA,19-69d,Jul 17 2005,,CA,,Round 1 (#1 overall) 2023,Chicago Blackhawks
+Kevin Korchinski,https://www.spotrac.com/nhl/player/_/id/78317,918333,1.04,855000,95000,2023,3,2,2026,5850000,RFA,20-95d,Jun 21 2004,,CA,,Round 1 (#7 overall) 2022,Chicago Blackhawks
+Joseph Anderson,https://www.spotrac.com/nhl/player/_/id/20359,800000,0.91,800000,-,2024,2,2,2026,1600000,UFA,26-99d,Jun 19 1998,3 Years,US,USA U-18,Round 3 (#73 overall) 2016,Chicago Blackhawks
+Nathan MacKinnon,https://www.spotrac.com/nhl/player/_/id/13403,12600000,14.32,775000,15725000,2023,8,7,2031,100800000,UFA,29-26d,Sep 01 1995,10 Years,CA,Halifax,Round 1 (#1 overall) 2013,Colorado Avalanche
+Mikko Rantanen,https://www.spotrac.com/nhl/player/_/id/17992,9250000,10.51,6000000,-,2019,6,1,2025,55500000,UFA,27-332d,Oct 29 1996,8 Years,FI,TPS,Round 1 (#10 overall) 2015,Colorado Avalanche
+Cale Makar,https://www.spotrac.com/nhl/player/_/id/23683,9000000,10.23,10600000,-,2021,6,3,2027,54000000,UFA,25-331d,Oct 30 1998,4 Years,CA,Massachusetts,Round 1 (#4 overall) 2017,Colorado Avalanche
+Devon Toews,https://www.spotrac.com/nhl/player/_/id/18935,7250000,8.24,7750000,-,2024,7,7,2031,50750000,UFA,30-218d,Feb 21 1994,5 Years,CA,North Dakota,Round 4 (#108 overall) 2014,Colorado Avalanche
+Gabriel Landeskog,https://www.spotrac.com/nhl/player/_/id/8346,7000000,7.95,9000000,-,2021,8,5,2029,56000000,UFA,31-308d,Nov 23 1992,12 Years,SE,Kitchener,Round 1 (#2 overall) 2011,Colorado Avalanche
+Casey Mittelstadt,https://www.spotrac.com/nhl/player/_/id/23687,5750000,6.53,5750000,-,2024,3,3,2027,17250000,UFA,25-308d,Nov 22 1998,6 Years,US,Minnesota,Round 1 (#8 overall) 2017,Colorado Avalanche
+Samuel Girard,https://www.spotrac.com/nhl/player/_/id/20332,5000000,5.68,5000000,-,2020,7,3,2027,35000000,UFA,26-137d,May 12 1998,6 Years,CA,Shawinigan,Round 2 (#47 overall) 2016,Colorado Avalanche
+Artturi Lehkonen,https://www.spotrac.com/nhl/player/_/id/19749,4500000,5.11,4500000,-,2022,5,3,2027,22500000,UFA,29-85d,Jul 04 1995,7 Years,FI,Frolunda,Round 2 (#55 overall) 2013,Colorado Avalanche
+Josh Manson,https://www.spotrac.com/nhl/player/_/id/15543,4500000,5.11,4000000,-,2022,4,2,2026,18000000,UFA,32-356d,Oct 07 1991,9 Years,CA,Northeastern,Round 6 (#159 overall) 2015,Colorado Avalanche
+Ross Colton,https://www.spotrac.com/nhl/player/_/id/20405,4000000,4.55,3500000,500000,2023,4,3,2027,16000000,UFA,28-15d,Sep 11 1996,3 Years,US,Cedar Rapids,Round 4 (#118 overall) 2016,Colorado Avalanche
+Alexander Georgiev,https://www.spotrac.com/nhl/player/_/id/24237,3400000,3.86,2900000,-,2022,3,1,2025,10200000,UFA,28-229d,Feb 10 1996,6 Years,RU,TPS,Undrafted NYR 2017,Colorado Avalanche
+Miles Wood,https://www.spotrac.com/nhl/player/_/id/18927,2500000,2.84,3250000,-,2023,6,5,2029,15000000,UFA,29-14d,Sep 13 1995,8 Years,US,Boston College,Round 4 (#100 overall) 2013,Colorado Avalanche
+Jonathan Drouin,https://www.spotrac.com/nhl/player/_/id/13390,2500000,2.84,2500000,-,2024,1,1,2025,2500000,UFA,29-184d,Mar 27 1995,9 Years,CA,Halifax,Round 1 (#3 overall) 2013,Colorado Avalanche
+Logan O'Connor,https://www.spotrac.com/nhl/player/_/id/27746,1050000,1.19,1250000,-,2022,3,1,2025,3150000,UFA,28-43d,Aug 14 1996,5 Years,CA,Denver,Undrafted COL 2018,Colorado Avalanche
+Oliver Kylington,https://www.spotrac.com/nhl/player/_/id/18000,1050000,1.19,1050000,-,2024,1,1,2025,1050000,UFA,27-130d,May 19 1997,6 Years,SE,Farjestad,Round 2 (#60 overall) 2015,Colorado Avalanche
+Erik Brannstrom,https://www.spotrac.com/nhl/player/_/id/23694,900000,1.02,900000,-,2024,1,1,2025,900000,UFA,25-24d,Sep 02 1999,4 Years,SE,HV 71,Round 1 (#15 overall) 2017,Colorado Avalanche
+Nikolai Kovalenko,https://www.spotrac.com/nhl/player/_/id/27242,896250,1.02,775000,92500,2023,2,1,2025,1850000,RFA,24-344d,Oct 17 1999,,RU,Yaroslavl,Round 6 (#171 overall) 2018,Colorado Avalanche
+Justus Annunen,https://www.spotrac.com/nhl/player/_/id/27133,837500,0.95,800000,-,2024,2,2,2026,1675000,RFA,24-198d,Mar 11 2000,,FI,Karpat,Round 3 (#64 overall) 2018,Colorado Avalanche
+Parker Kelly,https://www.spotrac.com/nhl/player/_/id/24495,825000,0.94,825000,-,2024,2,2,2026,1650000,UFA,25-135d,May 14 1999,2 Years,CA,Prince Albert,Undrafted OTT 2017,Colorado Avalanche
+Calvin de Haan,https://www.spotrac.com/nhl/player/_/id/12655,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,33-142d,May 09 1991,10 Years,CA,Oshawa,Round 1 (#12 overall) 2009,Colorado Avalanche
+Joel Kiviranta,https://www.spotrac.com/nhl/player/_/id/30273,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,28-184d,Mar 26 1996,3 Years,FI,,Undrafted DAL 2019,Colorado Avalanche
+Jacob MacDonald,https://www.spotrac.com/nhl/player/_/id/27349,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,31-213d,Feb 26 1993,3 Years,US,Cornell,Undrafted FLA 2018,Colorado Avalanche
+Chris Wagner,https://www.spotrac.com/nhl/player/_/id/9301,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,33-124d,May 27 1991,9 Years,US,Colgate,Round 5 (#122 overall) 2010,Colorado Avalanche
+Zachary Werenski,https://www.spotrac.com/nhl/player/_/id/18882,9583333,10.89,9500000,2000000,2022,6,4,2028,57500000,UFA,27-69d,Jul 19 1997,7 Years,US,Michigan,Round 1 (#8 overall) 2015,Columbus Blue Jackets
+Damon Severson,https://www.spotrac.com/nhl/player/_/id/10806,6250000,7.10,6000000,2000000,2023,8,7,2031,50000000,UFA,30-51d,Aug 07 1994,9 Years,CA,Kelowna,Round 2 (#60 overall) 2012,Columbus Blue Jackets
+Sean Monahan,https://www.spotrac.com/nhl/player/_/id/13439,5500000,6.25,5500000,1500000,2024,5,5,2029,27500000,UFA,29-350d,Oct 12 1994,10 Years,CA,Ottawa,Round 1 (#6 overall) 2013,Columbus Blue Jackets
+Elvis Merzlikins,https://www.spotrac.com/nhl/player/_/id/28788,5400000,6.14,6000000,-,2022,5,3,2027,27000000,UFA,30-167d,Apr 13 1994,4 Years,LV,,Undrafted CBJ 2019,Columbus Blue Jackets
+Ivan Provorov,https://www.spotrac.com/nhl/player/_/id/17968,4725000,5.37,6625000,2000000,2019,6,1,2025,40500000,UFA,27-256d,Jan 13 1997,7 Years,RU,Brandon,Round 1 (#7 overall) 2015,Columbus Blue Jackets
+Erik Gudbranson,https://www.spotrac.com/nhl/player/_/id/6946,4000000,4.55,3500000,-,2022,4,2,2026,16000000,UFA,32-264d,Jan 07 1992,12 Years,CA,Kingston,Round 1 (#3 overall) 2010,Columbus Blue Jackets
+Kirill Marchenko,https://www.spotrac.com/nhl/player/_/id/27118,3850000,4.38,3600000,-,2024,3,3,2027,11550000,RFA,24-66d,Jul 21 2000,1 Years,RU,Khanty-Mansiysk,Round 2 (#49 overall) 2018,Columbus Blue Jackets
+Boone Jenner,https://www.spotrac.com/nhl/player/_/id/9286,3750000,4.26,3750000,-,2022,4,2,2026,15000000,UFA,31-104d,Jun 15 1993,10 Years,CA,Oshawa,Round 2 (#37 overall) 2011,Columbus Blue Jackets
+Sean Kuraly,https://www.spotrac.com/nhl/player/_/id/18886,2500000,2.84,2500000,-,2021,4,1,2025,10000000,UFA,31-250d,Jan 20 1993,7 Years,US,Miami (OH),Round 5 (#132 overall) 2011,Columbus Blue Jackets
+Cole Sillinger,https://www.spotrac.com/nhl/player/_/id/73766,2250000,2.56,2250000,-,2024,2,2,2026,4500000,RFA,21-132d,May 16 2003,2 Years,CA,Sioux Falls,Round 1 (#12 overall) 2021,Columbus Blue Jackets
+Yegor Chinakhov,https://www.spotrac.com/nhl/player/_/id/62878,2100000,2.39,2100000,-,2024,2,2,2026,4200000,RFA,23-236d,Feb 01 2001,2 Years,RU,,Round 1 (#21 overall) 2020,Columbus Blue Jackets
+Kent Johnson,https://www.spotrac.com/nhl/player/_/id/73758,1800000,2.05,1800000,-,2024,3,3,2027,5400000,RFA,21-342d,Oct 18 2002,2 Years,CA,Michigan,Round 1 (#5 overall) 2021,Columbus Blue Jackets
+Jordan Harris,https://www.spotrac.com/nhl/player/_/id/27141,1400000,1.59,1400000,-,2023,2,1,2025,2800000,RFA,24-80d,Jul 07 2000,1 Years,US,Youngstown,Round 3 (#71 overall) 2018,Columbus Blue Jackets
+Justin Danforth,https://www.spotrac.com/nhl/player/_/id/72857,1100000,1.25,1100000,-,2024,1,1,2025,1100000,UFA,31-196d,Mar 15 1993,2 Years,CA,,Undrafted CBJ 2021,Columbus Blue Jackets
+Mathieu Olivier,https://www.spotrac.com/nhl/player/_/id/29685,1100000,1.25,1100000,-,2023,2,1,2025,2200000,UFA,27-227d,Feb 11 1997,4 Years,US,,Undrafted NSH 2019,Columbus Blue Jackets
+Daniil Tarasov,https://www.spotrac.com/nhl/player/_/id/23808,1050000,1.19,1350000,-,2022,3,1,2025,3150000,RFA,25-183d,Mar 27 1999,2 Years,RU,UFA,Round 3 (#86 overall) 2017,Columbus Blue Jackets
+Adam Fantilli,https://www.spotrac.com/nhl/player/_/id/84491,950000,1.08,855000,95000,2023,3,2,2026,9450000,RFA,19-347d,Oct 12 2004,,CA,Michigan,Round 1 (#3 overall) 2023,Columbus Blue Jackets
+Dmitri Voronkov,https://www.spotrac.com/nhl/player/_/id/31738,925000,1.05,832500,92500,2023,2,1,2025,1850000,RFA,24-15d,Sep 10 2000,,RU,Bars Kazan,Round 4 (#114 overall) 2019,Columbus Blue Jackets
+David Jiricek,https://www.spotrac.com/nhl/player/_/id/78316,918333,1.04,855000,95000,2023,3,2,2026,5850000,RFA,20-301d,Nov 28 2003,,CZ,,Round 1 (#6 overall) 2022,Columbus Blue Jackets
+James Van Riemsdyk,https://www.spotrac.com/nhl/player/_/id/6390,900000,1.02,900000,-,2024,1,1,2025,900000,UFA,35-147d,May 04 1989,14 Years,US,New Hampshire,Round 1 (#2 overall) 2007,Columbus Blue Jackets
+Jacob Christiansen,https://www.spotrac.com/nhl/player/_/id/47358,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,25-14d,Sep 12 1999,,CA,,Undrafted CBJ 2020,Columbus Blue Jackets
+Trey Fix-Wolansky,https://www.spotrac.com/nhl/player/_/id/27275,775000,0.88,775000,-,2023,2,1,2025,1550000,RFA,25-123d,May 26 1999,,CA,Edmonton,Round 7 (#204 overall) 2018,Columbus Blue Jackets
+Jack Johnson,https://www.spotrac.com/nhl/player/_/id/1773,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,37-259d,Jan 13 1987,17 Years,US,Michigan,Round 1 (#3 overall) 2005,Columbus Blue Jackets
+Tyler Seguin,https://www.spotrac.com/nhl/player/_/id/6945,9850000,11.19,2750000,5250000,2019,8,3,2027,78800000,UFA,32-240d,Jan 31 1992,13 Years,CA,Boston,Round 1 (#2 overall) 2010,Dallas Stars
+Jamie Benn,https://www.spotrac.com/nhl/player/_/id/6357,9500000,10.80,1000000,5500000,2017,8,1,2025,76000000,UFA,35-73d,Jul 17 1989,14 Years,CA,Kelowna,Round 5 (#129 overall) 2007,Dallas Stars
+Miro Heiskanen,https://www.spotrac.com/nhl/player/_/id/23682,8450000,9.60,11000000,-,2021,8,5,2029,67600000,UFA,25-70d,Jul 18 1999,5 Years,FI,HIFK,Round 1 (#3 overall) 2017,Dallas Stars
+Roope Hintz,https://www.spotrac.com/nhl/player/_/id/22492,8450000,9.60,8250000,3000000,2023,8,7,2031,67600000,UFA,27-313d,Nov 17 1996,5 Years,FI,HIFK,Round 2 (#49 overall) 2015,Dallas Stars
+Jason Robertson,https://www.spotrac.com/nhl/player/_/id/23758,7750000,8.81,9200000,-,2022,4,2,2026,31000000,RFA,25-66d,Jul 22 1999,4 Years,US,Kingston,Round 2 (#39 overall) 2017,Dallas Stars
+Esa Lindell,https://www.spotrac.com/nhl/player/_/id/15230,5800000,6.59,5000000,-,2025,5,6,2030,26250000,UFA,30-127d,May 23 1994,8 Years,FI,Kiekko-Vanta,Round 3 (#74 overall) 2012,Dallas Stars
+Mason Marchment,https://www.spotrac.com/nhl/player/_/id/25023,4500000,5.11,2600000,1000000,2022,4,2,2026,18000000,UFA,29-101d,Jun 18 1995,4 Years,CA,Mississauga,Undrafted TOR 2018,Dallas Stars
+Jake Oettinger,https://www.spotrac.com/nhl/player/_/id/23705,4000000,4.55,4800000,-,2022,3,1,2025,12000000,RFA,25-282d,Dec 18 1998,3 Years,US,Boston,Round 1 (#26 overall) 2017,Dallas Stars
+Thomas Harley,https://www.spotrac.com/nhl/player/_/id/31642,4000000,4.55,3500000,-,2024,2,2,2026,8000000,RFA,23-37d,Aug 19 2001,2 Years,US,Mississauga,Round 1 (#18 overall) 2019,Dallas Stars
+Mathew Dumba,https://www.spotrac.com/nhl/player/_/id/10754,3750000,4.26,4000000,-,2024,2,2,2026,7500000,UFA,30-64d,Jul 25 1994,10 Years,CA,Edge,Round 1 (#7 overall) 2012,Dallas Stars
+Ilya Lyubushkin,https://www.spotrac.com/nhl/player/_/id/25975,3250000,3.69,4000000,-,2024,3,3,2027,9750000,UFA,30-174d,Apr 06 1994,5 Years,RU,Yaroslavl,Undrafted ARI 2018,Dallas Stars
+Matt Duchene,https://www.spotrac.com/nhl/player/_/id/6352,3000000,3.41,3000000,-,2024,1,1,2025,3000000,UFA,33-255d,Jan 16 1991,14 Years,CA,Brampton,Round 1 (#3 overall) 2009,Dallas Stars
+Evgenii Dadonov,https://www.spotrac.com/nhl/player/_/id/7147,2250000,2.56,2250000,-,2023,2,1,2025,4500000,UFA,35-200d,Mar 12 1989,9 Years,RU,St. Petersburg,Round 3 (#71 overall) 2007,Dallas Stars
+Nils Lundkvist,https://www.spotrac.com/nhl/player/_/id/27091,1250000,1.42,1250000,-,2024,1,1,2025,1250000,RFA,24-60d,Jul 27 2000,2 Years,SE,Lulea,Round 1 (#28 overall) 2018,Dallas Stars
+Sam Steel,https://www.spotrac.com/nhl/player/_/id/20314,1200000,1.36,1200000,-,2024,1,1,2025,1200000,UFA,26-235d,Feb 03 1998,5 Years,CA,Regina,Round 1 (#30 overall) 2016,Dallas Stars
+Casey DeSmith,https://www.spotrac.com/nhl/player/_/id/23829,1000000,1.14,1200000,-,2024,3,3,2027,3000000,UFA,33-46d,Aug 13 1991,4 Years,US,New Hampshire,Undrafted PIT 2017,Dallas Stars
+Brendan Smith,https://www.spotrac.com/nhl/player/_/id/6844,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,35-233d,Feb 07 1989,11 Years,CA,Wisconsin,Round 1 (#27 overall) 2007,Dallas Stars
+Mavrik Bourque,https://www.spotrac.com/nhl/player/_/id/62887,894167,1.02,832500,-,2022,3,1,2025,2775000,RFA,22-260d,Jan 08 2002,,CA,,Round 1 (#30 overall) 2020,Dallas Stars
+Wyatt Johnston,https://www.spotrac.com/nhl/player/_/id/73777,894167,1.02,832500,-,2022,3,1,2025,3093750,RFA,21-134d,May 14 2003,1 Years,CA,Windsor,Round 1 (#23 overall) 2021,Dallas Stars
+Logan Stankoven,https://www.spotrac.com/nhl/player/_/id/73803,814167,0.93,775000,-,2023,3,2,2026,2775000,RFA,21-211d,Feb 26 2003,,CA,Kamloops,Round 2 (#47 overall) 2021,Dallas Stars
+Oskar Back,https://www.spotrac.com/nhl/player/_/id/27145,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,24-197d,Mar 12 2000,,SE,Farjestad,Round 3 (#75 overall) 2018,Dallas Stars
+Colin Blackwell,https://www.spotrac.com/nhl/player/_/id/27596,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,31-183d,Mar 28 1993,4 Years,US,Harvard,,Dallas Stars
+Matej Blumel,https://www.spotrac.com/nhl/player/_/id/31724,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,24-117d,May 31 2000,,CZ,Waterloo,Round 4 (#100 overall) 2019,Dallas Stars
+Dylan Larkin,https://www.spotrac.com/nhl/player/_/id/17910,8700000,9.89,11000000,-,2023,8,7,2031,69600000,UFA,28-58d,Jul 30 1996,8 Years,US,Michigan,Round 1 (#15 overall) 2014,Detroit Red Wings
+Lucas Raymond,https://www.spotrac.com/nhl/player/_/id/62861,8075000,9.18,8075000,-,2024,8,8,2032,64600000,UFA,22-181d,Mar 28 2002,2 Years,SE,,Round 1 (#4 overall) 2020,Detroit Red Wings
+Alexander Debrincat,https://www.spotrac.com/nhl/player/_/id/20324,7875000,8.95,8250000,-,2023,4,3,2027,31500000,UFA,26-282d,Dec 18 1997,6 Years,US,Erie,Round 2 (#39 overall) 2016,Detroit Red Wings
+Andrew Copp,https://www.spotrac.com/nhl/player/_/id/16548,5625000,6.39,6250000,-,2022,5,3,2027,28125000,UFA,30-81d,Jul 08 1994,9 Years,US,Michigan,Round 4 (#104 overall) 2013,Detroit Red Wings
+J.T Compher,https://www.spotrac.com/nhl/player/_/id/18948,5100000,5.80,5500000,-,2023,5,4,2028,25500000,UFA,29-172d,Apr 08 1995,7 Years,US,Michigan,Round 2 (#35 overall) 2013,Detroit Red Wings
+Ben Chiarot,https://www.spotrac.com/nhl/player/_/id/14394,4750000,5.40,5250000,-,2022,4,2,2026,19000000,UFA,33-142d,May 09 1991,10 Years,CA,Guelph,Round 4 (#120 overall) 2009,Detroit Red Wings
+Ville Husso,https://www.spotrac.com/nhl/player/_/id/19785,4750000,5.40,4750000,-,2022,3,1,2025,14250000,UFA,29-233d,Feb 06 1995,3 Years,FI,,Round 4 (#94 overall) 2014,Detroit Red Wings
+Vladimir Tarasenko,https://www.spotrac.com/nhl/player/_/id/10904,4750000,5.40,4750000,-,2024,2,2,2026,9500000,UFA,32-289d,Dec 13 1991,10 Years,RU,Novokuznetsk,Round 1 (#16 overall) 2010,Detroit Red Wings
+Patrick Kane,https://www.spotrac.com/nhl/player/_/id/1584,4000000,4.55,4000000,-,2024,1,1,2025,4000000,UFA,35-313d,Nov 19 1988,15 Years,US,London,Round 1 (#1 overall) 2007,Detroit Red Wings
+Justin Holl,https://www.spotrac.com/nhl/player/_/id/20624,3400000,3.86,3400000,-,2023,3,2,2026,10200000,UFA,32-241d,Jan 30 1992,6 Years,US,Minnesota,Round 2 (#54 overall) 2010,Detroit Red Wings
+Michael Rasmussen,https://www.spotrac.com/nhl/player/_/id/23688,3200000,3.64,2050000,500000,2024,4,4,2028,12800000,UFA,25-162d,Apr 17 1999,4 Years,CA,Tri-City,Round 1 (#9 overall) 2017,Detroit Red Wings
+Olli Maatta,https://www.spotrac.com/nhl/player/_/id/10769,3000000,3.41,3000000,-,2023,2,1,2025,6000000,UFA,30-36d,Aug 22 1994,10 Years,FI,London,Round 1 (#22 overall) 2012,Detroit Red Wings
+Cameron Talbot,https://www.spotrac.com/nhl/player/_/id/11076,2500000,2.84,2500000,-,2024,2,2,2026,5000000,UFA,37-86d,Jul 05 1987,9 Years,CA,Alabama,Undrafted NYR 2010,Detroit Red Wings
+Jeff Petry,https://www.spotrac.com/nhl/player/_/id/7144,6250000,7.10,3000000,2000000,2021,4,1,2025,25000000,UFA,36-294d,Dec 09 1987,13 Years,US,Michigan State,Round 2 (#45 overall) 2006,Detroit Red Wings
+Joe Veleno,https://www.spotrac.com/nhl/player/_/id/27093,2275000,2.59,2275000,-,2024,2,2,2026,4550000,RFA,24-256d,Jan 13 2000,3 Years,CA,Drummondville,Round 1 (#30 overall) 2018,Detroit Red Wings
+Erik Gustafsson,https://www.spotrac.com/nhl/player/_/id/17516,2000000,2.27,2000000,-,2024,2,2,2026,4000000,UFA,32-197d,Mar 14 1992,6 Years,SE,Frolunda,Round 4 (#93 overall) 2012,Detroit Red Wings
+Christian Fischer,https://www.spotrac.com/nhl/player/_/id/18136,1125000,1.28,1125000,-,2024,1,1,2025,1125000,UFA,27-164d,Apr 15 1997,7 Years,US,USA U-18,Round 2 (#32 overall) 2015,Detroit Red Wings
+Alex Lyon,https://www.spotrac.com/nhl/player/_/id/18903,900000,1.02,900000,-,2023,2,1,2025,1800000,UFA,31-292d,Dec 09 1992,6 Years,US,Yale,Undrafted PHI 2016,Detroit Red Wings
+Simon Edvinsson,https://www.spotrac.com/nhl/player/_/id/73760,894167,1.02,832500,92500,2023,3,2,2026,5325000,RFA,21-232d,Feb 05 2003,,SE,Frolunda,Round 1 (#6 overall) 2021,Detroit Red Wings
+Jonatan Berggren,https://www.spotrac.com/nhl/player/_/id/27102,825000,0.94,825000,-,2024,1,1,2025,825000,RFA,24-71d,Jul 16 2000,,SE,Skelleftea,Round 2 (#33 overall) 2018,Detroit Red Wings
+Tyler Motte,https://www.spotrac.com/nhl/player/_/id/18906,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,29-201d,Mar 10 1995,6 Years,US,Michigan,Round 4 (#121 overall) 2013,Detroit Red Wings
+Connor McDavid,https://www.spotrac.com/nhl/player/_/id/17891,12500000,14.20,3000000,7000000,2018,8,2,2026,100000000,UFA,27-256d,Jan 13 1997,8 Years,CA,Erie,Round 1 (#1 overall) 2015,Edmonton Oilers
+Darnell Nurse,https://www.spotrac.com/nhl/player/_/id/13452,9250000,10.51,12000000,-,2022,8,6,2030,74000000,UFA,29-235d,Feb 04 1995,9 Years,CA,Sault Ste. Marie,Round 1 (#7 overall) 2013,Edmonton Oilers
+Leon Draisaitl,https://www.spotrac.com/nhl/player/_/id/15712,8500000,9.66,8000000,-,2025,8,9,2033,112000000,UFA,28-335d,Oct 27 1995,9 Years,DE,Prince Albert,Round 1 (#3 overall) 2014,Edmonton Oilers
+Mattias Ekholm,https://www.spotrac.com/nhl/player/_/id/8014,6250000,7.10,6500000,-,2022,4,2,2026,25000000,UFA,34-127d,May 24 1990,12 Years,SE,Brynas,Round 4 (#102 overall) 2009,Edmonton Oilers
+Zach Hyman,https://www.spotrac.com/nhl/player/_/id/17827,5500000,6.25,7700000,-,2021,7,4,2028,38500000,UFA,32-110d,Jun 09 1992,8 Years,CA,Michigan,Round 5 (#123 overall) 2010,Edmonton Oilers
+Ryan Nugent-Hopkins,https://www.spotrac.com/nhl/player/_/id/8182,5125000,5.82,6250000,-,2021,8,5,2029,41000000,UFA,31-168d,Apr 12 1993,12 Years,CA,Red Deer,Round 1 (#1 overall) 2011,Edmonton Oilers
+Evander Kane,https://www.spotrac.com/nhl/player/_/id/6346,5125000,5.82,2750000,2000000,2022,4,2,2026,20500000,UFA,33-57d,Aug 02 1991,14 Years,CA,Vancouver,Round 1 (#4 overall) 2009,Edmonton Oilers
+Viktor Arvidsson,https://www.spotrac.com/nhl/player/_/id/15584,4000000,4.55,4000000,-,2024,2,2,2026,8000000,UFA,31-172d,Apr 08 1993,8 Years,SE,Skelleftea,Round 4 (#112 overall) 2014,Edmonton Oilers
+Evan Bouchard,https://www.spotrac.com/nhl/player/_/id/27049,3900000,4.43,4300000,-,2023,2,1,2025,7800000,RFA,24-341d,Oct 20 1999,4 Years,CA,London,Round 1 (#10 overall) 2018,Edmonton Oilers
+Jeff Skinner,https://www.spotrac.com/nhl/player/_/id/7679,3000000,3.41,3000000,-,2024,1,1,2025,3000000,UFA,32-134d,May 16 1992,13 Years,CA,Kitchener,Round 1 (#7 overall) 2010,Edmonton Oilers
+Adam Henrique,https://www.spotrac.com/nhl/player/_/id/8802,3000000,3.41,2500000,500000,2024,2,2,2026,6000000,UFA,34-235d,Feb 05 1990,13 Years,CA,Windsor,Round 3 (#82 overall) 2008,Edmonton Oilers
+Brett Kulak,https://www.spotrac.com/nhl/player/_/id/15559,2750000,3.13,2500000,-,2022,4,2,2026,11000000,UFA,30-264d,Jan 06 1994,9 Years,CA,Vancouver,Round 4 (#105 overall) 2012,Edmonton Oilers
+Stuart Skinner,https://www.spotrac.com/nhl/player/_/id/23800,2600000,2.95,2500000,-,2023,3,2,2026,7800000,UFA,25-329d,Nov 01 1998,3 Years,CA,Lethbridge,Round 3 (#78 overall) 2017,Edmonton Oilers
+Mattias Janmark,https://www.spotrac.com/nhl/player/_/id/16298,1450000,1.65,1250000,500000,2024,3,3,2027,4350000,UFA,31-293d,Dec 08 1992,7 Years,SE,AIK,Round 3 (#79 overall) 2013,Edmonton Oilers
+Corey Perry,https://www.spotrac.com/nhl/player/_/id/1403,1150000,1.31,1150000,-,2024,1,1,2025,1150000,UFA,39-197d,Mar 16 1985,18 Years,CA,London,Round 1 (#28 overall) 2003,Edmonton Oilers
+Joshua Brown,https://www.spotrac.com/nhl/player/_/id/16645,1000000,1.14,1025000,-,2024,3,3,2027,3000000,UFA,30-249d,Jan 21 1994,5 Years,CA,Oshawa,Round 6 (#152 overall) 2013,Edmonton Oilers
+Connor Brown,https://www.spotrac.com/nhl/player/_/id/13745,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,30-256d,Jan 14 1994,8 Years,CA,Erie,Round 6 (#156 overall) 2012,Edmonton Oilers
+Calvin Pickard,https://www.spotrac.com/nhl/player/_/id/11883,1000000,1.14,1000000,-,2024,2,2,2026,2000000,UFA,32-165d,Apr 15 1992,8 Years,CA,Seattle,Round 2 (#49 overall) 2010,Edmonton Oilers
+Vasily Podkolzin,https://www.spotrac.com/nhl/player/_/id/31634,1000000,1.14,1000000,-,2024,2,2,2026,2000000,RFA,23-93d,Jun 24 2001,1 Years,RU,St. Petersburg,Round 1 (#10 overall) 2019,Edmonton Oilers
+Ty Emberson,https://www.spotrac.com/nhl/player/_/id/27143,950000,1.08,950000,-,2024,1,1,2025,950000,UFA,24-125d,May 23 2000,,US,USA U-18,Round 3 (#73 overall) 2018,Edmonton Oilers
+Derek Ryan,https://www.spotrac.com/nhl/player/_/id/17605,900000,1.02,900000,-,2023,2,1,2025,1800000,UFA,37-274d,Dec 29 1986,8 Years,US,Spokane,Undrafted CAR 2015,Edmonton Oilers
+Troy Stecher,https://www.spotrac.com/nhl/player/_/id/18928,787500,0.89,775000,-,2024,2,2,2026,1575000,UFA,30-173d,Apr 07 1994,7 Years,CA,North Dakota,Undrafted VAN 2016,Edmonton Oilers
+Sergei Bobrovsky,https://www.spotrac.com/nhl/player/_/id/8782,10000000,11.36,5000000,1500000,2019,7,2,2026,70000000,UFA,36-9d,Sep 19 1988,12 Years,RU,Novokuznetsk,Undrafted PHI 2010,Florida Panthers
+Aleksander Barkov,https://www.spotrac.com/nhl/player/_/id/13413,10000000,11.36,1000000,11000000,2022,8,6,2030,80000000,UFA,29-25d,Sep 02 1995,9 Years,FI,Tappara,Round 1 (#2 overall) 2013,Florida Panthers
+Matthew Tkachuk,https://www.spotrac.com/nhl/player/_/id/20286,9500000,10.80,1000000,10250000,2022,8,6,2030,76000000,UFA,26-289d,Dec 11 1997,6 Years,US,London,Round 1 (#6 overall) 2016,Florida Panthers
+Sam Reinhart,https://www.spotrac.com/nhl/player/_/id/15572,8625000,9.80,1000000,10000000,2024,8,8,2032,69000000,UFA,28-325d,Nov 06 1995,8 Years,CA,Kootenay,Round 1 (#2 overall) 2014,Florida Panthers
+Aaron Ekblad,https://www.spotrac.com/nhl/player/_/id/15822,7500000,8.52,4000000,3000000,2017,8,1,2025,60000000,UFA,28-232d,Feb 07 1996,8 Years,CA,Barrie,Round 1 (#1 overall) 2014,Florida Panthers
+Gustav Forsling,https://www.spotrac.com/nhl/player/_/id/19803,5750000,6.53,1000000,5525000,2024,8,8,2032,46000000,UFA,28-106d,Jun 12 1996,5 Years,SE,Linkopings,Round 5 (#126 overall) 2014,Florida Panthers
+Anton Lundell,https://www.spotrac.com/nhl/player/_/id/62869,5000000,5.68,3400000,2500000,2024,6,6,2030,30000000,UFA,22-357d,Oct 03 2001,1 Years,FI,,Round 1 (#12 overall) 2020,Florida Panthers
+Spencer Knight,https://www.spotrac.com/nhl/player/_/id/31637,4500000,5.11,4500000,-,2023,3,2,2026,13500000,RFA,23-159d,Apr 19 2001,1 Years,US,USA U-18,Round 1 (#13 overall) 2019,Florida Panthers
+Sam Bennett,https://www.spotrac.com/nhl/player/_/id/15609,4425000,5.03,5000000,-,2021,4,1,2025,17700000,UFA,28-98d,Jun 20 1996,8 Years,CA,Kingston,Round 1 (#4 overall) 2014,Florida Panthers
+Carter Verhaeghe,https://www.spotrac.com/nhl/player/_/id/17938,4166667,4.73,4500000,-,2022,3,1,2025,12500000,UFA,29-44d,Aug 14 1995,3 Years,CA,,Round 3 (#82 overall) 2013,Florida Panthers
+Eetu Luostarinen,https://www.spotrac.com/nhl/player/_/id/23761,3000000,3.41,1000000,2500000,2024,3,3,2027,9000000,UFA,26-24d,Sep 02 1998,3 Years,FI,KalPa,Round 2 (#42 overall) 2017,Florida Panthers
+Evan Rodrigues,https://www.spotrac.com/nhl/player/_/id/16717,3000000,3.41,775000,2225000,2023,4,3,2027,12000000,UFA,31-61d,Jul 28 1993,7 Years,CA,Boston,Undrafted BUF 2015,Florida Panthers
+Niko Mikkola,https://www.spotrac.com/nhl/player/_/id/25989,2500000,2.84,2500000,-,2023,3,2,2026,7500000,UFA,28-152d,Apr 27 1996,3 Years,FI,,Round 5 (#127 overall) 2015,Florida Panthers
+Dmitry Kulikov,https://www.spotrac.com/nhl/player/_/id/6432,1150000,1.31,1000000,400000,2024,4,4,2028,4600000,UFA,33-334d,Oct 29 1990,13 Years,RU,Drummondville,Round 1 (#14 overall) 2009,Florida Panthers
+Uvis Balinskis,https://www.spotrac.com/nhl/player/_/id/82195,850000,0.97,850000,-,2024,2,2,2026,1700000,UFA,28-56d,Aug 01 1996,,LV,,Undrafted FLA 2023,Florida Panthers
+A.J. Greer,https://www.spotrac.com/nhl/player/_/id/20536,850000,0.97,775000,150000,2024,2,2,2026,1700000,UFA,27-286d,Dec 14 1996,6 Years,CA,Boston,Round 2 (#39 overall) 2015,Florida Panthers
+Nate Schmidt,https://www.spotrac.com/nhl/player/_/id/12185,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,33-74d,Jul 16 1991,9 Years,US,Minnesota,Undrafted WAS 2013,Florida Panthers
+Tobias Bjornfot,https://www.spotrac.com/nhl/player/_/id/31655,775000,0.88,775000,-,2023,2,1,2025,1550000,RFA,23-172d,Apr 06 2001,2 Years,SE,Djurgarden,Round 1 (#22 overall) 2019,Florida Panthers
+Jesper Boqvist,https://www.spotrac.com/nhl/player/_/id/23755,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,25-331d,Oct 30 1998,3 Years,SE,Brynas,Round 2 (#36 overall) 2017,Florida Panthers
+Adam Boqvist,https://www.spotrac.com/nhl/player/_/id/27047,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,24-41d,Aug 15 2000,4 Years,SE,Almtuna IS,Round 1 (#8 overall) 2018,Florida Panthers
+Jonah Gadjovich,https://www.spotrac.com/nhl/player/_/id/23774,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,25-349d,Oct 12 1998,1 Years,CA,Owen Sound,Round 2 (#55 overall) 2017,Florida Panthers
+Tomas Nosek,https://www.spotrac.com/nhl/player/_/id/15344,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,32-26d,Sep 01 1992,7 Years,CZ,Pardubice HC,Undrafted DET 2014,Florida Panthers
+Drew Doughty,https://www.spotrac.com/nhl/player/_/id/4864,11000000,12.50,11000000,-,2019,8,3,2027,88000000,UFA,34-295d,Dec 07 1989,14 Years,CA,Guelph,Round 1 (#2 overall) 2008,Los Angeles Kings
+Kevin Fiala,https://www.spotrac.com/nhl/player/_/id/15583,7875000,8.95,5500000,3250000,2022,7,5,2029,55125000,UFA,28-66d,Jul 22 1996,8 Years,CH,HV 71,Round 1 (#11 overall) 2014,Los Angeles Kings
+Anze Kopitar,https://www.spotrac.com/nhl/player/_/id/1765,7000000,7.95,775000,6225000,2024,2,2,2026,14000000,UFA,37-37d,Aug 23 1987,16 Years,SI,Sodertalje SK,Round 1 (#11 overall) 2005,Los Angeles Kings
+Quinton Byfield,https://www.spotrac.com/nhl/player/_/id/62859,6250000,7.10,775000,5500000,2024,5,5,2029,31250000,UFA,22-37d,Aug 19 2002,2 Years,CA,,Round 1 (#2 overall) 2020,Los Angeles Kings
+Vladislav Gavrikov,https://www.spotrac.com/nhl/player/_/id/28999,5875000,6.68,775000,4475000,2023,2,1,2025,11750000,UFA,28-310d,Nov 21 1995,3 Years,RU,,Round 6 (#159 overall) 2015,Los Angeles Kings
+Adrian Kempe,https://www.spotrac.com/nhl/player/_/id/16678,5500000,6.25,5500000,-,2022,4,2,2026,22000000,UFA,28-13d,Sep 13 1996,6 Years,SE,Ontario,Round 1 (#29 overall) 2014,Los Angeles Kings
+Phillip Danault,https://www.spotrac.com/nhl/player/_/id/8573,5500000,6.25,3750000,3000000,2021,6,3,2027,33000000,UFA,31-215d,Feb 24 1993,8 Years,CA,Victoriaville,Round 1 (#26 overall) 2011,Los Angeles Kings
+Darcy Kuemper,https://www.spotrac.com/nhl/player/_/id/7992,5250000,5.97,6000000,-,2022,5,3,2027,26250000,UFA,34-146d,May 05 1990,10 Years,CA,Red Deer,Round 6 (#161 overall) 2007,Los Angeles Kings
+Trevor Moore,https://www.spotrac.com/nhl/player/_/id/20913,4200000,4.77,4500000,-,2023,5,4,2028,21000000,UFA,29-180d,Mar 31 1995,4 Years,US,Denver,Undrafted TOR 2016,Los Angeles Kings
+Michael Anderson,https://www.spotrac.com/nhl/player/_/id/27068,4125000,4.69,4200000,-,2023,8,7,2031,33000000,UFA,25-124d,May 25 1999,3 Years,US,Minnesota-Duluth,Round 4 (#103 overall) 2017,Los Angeles Kings
+Joel Edmundson,https://www.spotrac.com/nhl/player/_/id/12016,3850000,4.38,775000,3725000,2024,4,4,2028,15400000,UFA,31-91d,Jun 28 1993,7 Years,CA,Moose Jaw,Round 2 (#46 overall) 2011,Los Angeles Kings
+Warren Foegele,https://www.spotrac.com/nhl/player/_/id/21690,3500000,3.98,1000000,3000000,2024,3,3,2027,10500000,UFA,28-178d,Apr 01 1996,6 Years,CA,New Hampshire,Round 3 (#67 overall) 2014,Los Angeles Kings
+Tanner Jeannot,https://www.spotrac.com/nhl/player/_/id/25066,2665000,3.03,2285000,-,2023,2,1,2025,5330000,UFA,27-120d,May 29 1997,2 Years,CA,Moose Jaw,Undrafted NSH 2018,Los Angeles Kings
+Jordan Spence,https://www.spotrac.com/nhl/player/_/id/31719,1500000,1.70,1000000,300000,2024,2,2,2026,3000000,RFA,23-213d,Feb 24 2001,,CA,Moncton,Round 4 (#95 overall) 2019,Los Angeles Kings
+Kyle Burroughs,https://www.spotrac.com/nhl/player/_/id/16644,1100000,1.25,1100000,-,2023,3,2,2026,3300000,UFA,29-77d,Jul 12 1995,2 Years,CA,,Round 7 (#196 overall) 2013,Los Angeles Kings
+Andreas Englund,https://www.spotrac.com/nhl/player/_/id/18904,1000000,1.14,1000000,-,2023,2,1,2025,2000000,UFA,28-249d,Jan 21 1996,4 Years,SE,Djurgarden,Round 2 (#40 overall) 2014,Los Angeles Kings
+David Rittich,https://www.spotrac.com/nhl/player/_/id/19957,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,32-39d,Aug 19 1992,6 Years,CZ,Mlada Boleslav BK,Undrafted CGY 2016,Los Angeles Kings
+Alex Laferriere,https://www.spotrac.com/nhl/player/_/id/62944,875000,0.99,787500,87500,2022,3,1,2025,2625000,RFA,22-332d,Oct 28 2001,,US,,Round 3 (#83 overall) 2020,Los Angeles Kings
+Brandt Clarke,https://www.spotrac.com/nhl/player/_/id/73762,863333,0.98,832500,-,2023,3,2,2026,5325000,RFA,21-228d,Feb 09 2003,,CA,Barrie,Round 1 (#8 overall) 2021,Los Angeles Kings
+Pheonix Copley,https://www.spotrac.com/nhl/player/_/id/17936,825000,0.94,825000,-,2024,1,1,2025,825000,UFA,32-253d,Jan 18 1992,4 Years,US,Michigan Tech,Undrafted WAS 2014,Los Angeles Kings
+Arthur Kaliyev,https://www.spotrac.com/nhl/player/_/id/31657,825000,0.94,825000,-,2024,1,1,2025,825000,RFA,23-91d,Jun 26 2001,2 Years,US,Hamilton,Round 2 (#33 overall) 2019,Los Angeles Kings
+Trevor Lewis,https://www.spotrac.com/nhl/player/_/id/7149,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,37-265d,Jan 07 1987,14 Years,US,Central Michigan,Round 1 (#17 overall) 2006,Los Angeles Kings
+Akil Thomas,https://www.spotrac.com/nhl/player/_/id/27120,775000,0.88,775000,-,2024,2,2,2026,1550000,RFA,24-267d,Jan 02 2000,,US,Niagara,Round 2 (#51 overall) 2018,Los Angeles Kings
+Alex Turcotte,https://www.spotrac.com/nhl/player/_/id/31629,775000,0.88,775000,-,2024,3,3,2027,2325000,RFA,23-211d,Feb 26 2001,,US,USA U-18,Round 1 (#5 overall) 2019,Los Angeles Kings
+Kirill Kaprizov,https://www.spotrac.com/nhl/player/_/id/48851,9000000,10.23,10000000,-,2021,5,2,2026,45000000,UFA,27-153d,Apr 26 1997,2 Years,RU,,Undrafted MIN 2020,Minnesota Wild
+Jared Spurgeon,https://www.spotrac.com/nhl/player/_/id/7154,7575000,8.61,8000000,-,2020,7,3,2027,53025000,UFA,34-303d,Nov 29 1989,12 Years,CA,Spokane,Round 6 (#156 overall) 2008,Minnesota Wild
+Matthew Boldy,https://www.spotrac.com/nhl/player/_/id/31636,7000000,7.95,9700000,-,2023,7,6,2030,49000000,UFA,23-173d,Apr 05 2001,1 Years,US,USA U-18,Round 1 (#12 overall) 2019,Minnesota Wild
+Jonas Brodin,https://www.spotrac.com/nhl/player/_/id/8252,6000000,6.82,8000000,-,2021,7,4,2028,42000000,UFA,31-77d,Jul 12 1993,10 Years,SE,Farjestad,Round 1 (#10 overall) 2011,Minnesota Wild
+Joel Eriksson Ek,https://www.spotrac.com/nhl/player/_/id/17993,5250000,5.97,9000000,-,2021,8,5,2029,42000000,UFA,27-240d,Jan 29 1997,6 Years,SE,Farjestad,Round 1 (#20 overall) 2015,Minnesota Wild
+Mats Zuccarello-Aasen,https://www.spotrac.com/nhl/player/_/id/6851,4125000,4.69,4700000,-,2024,2,2,2026,8250000,UFA,37-29d,Aug 31 1987,12 Years,NO,MODO,Undrafted NYR 2010,Minnesota Wild
+Marcus Foligno,https://www.spotrac.com/nhl/player/_/id/7989,4000000,4.55,5000000,-,2024,4,4,2028,16000000,UFA,33-49d,Aug 10 1991,11 Years,US,Sudbury,Round 4 (#104 overall) 2009,Minnesota Wild
+Ryan Hartman,https://www.spotrac.com/nhl/player/_/id/13718,4000000,4.55,5000000,-,2024,3,3,2027,12000000,UFA,29-7d,Sep 20 1994,8 Years,US,Plymouth,Round 1 (#30 overall) 2013,Minnesota Wild
+Filip Gustavsson,https://www.spotrac.com/nhl/player/_/id/20340,3750000,4.26,4000000,-,2023,3,2,2026,11250000,UFA,26-111d,Jun 07 1998,2 Years,SE,Lulea,Round 2 (#55 overall) 2016,Minnesota Wild
+Yakov Trenin,https://www.spotrac.com/nhl/player/_/id/17985,3500000,3.98,4000000,-,2024,4,4,2028,14000000,UFA,27-256d,Jan 13 1997,3 Years,RU,Gatineau,Round 2 (#55 overall) 2015,Minnesota Wild
+Marc-Andre Fleury,https://www.spotrac.com/nhl/player/_/id/2041,2500000,2.84,2500000,-,2024,1,1,2025,2500000,UFA,39-305d,Nov 28 1984,18 Years,CA,Cape Breton,Round 1 (#1 overall) 2003,Minnesota Wild
+Jacob Middleton,https://www.spotrac.com/nhl/player/_/id/24472,2450000,2.78,2050000,-,2025,4,5,2029,17400000,UFA,28-268d,Jan 02 1996,4 Years,CA,,Undrafted SJS 2017,Minnesota Wild
+Frederick Gaudreau,https://www.spotrac.com/nhl/player/_/id/18576,2100000,2.39,2240000,-,2023,5,4,2028,10500000,UFA,31-149d,May 01 1993,5 Years,CA,Shawinigan,Undrafted NSH 2016,Minnesota Wild
+Marcus Johansson,https://www.spotrac.com/nhl/player/_/id/6811,2000000,2.27,2000000,-,2023,2,1,2025,4000000,UFA,33-357d,Oct 06 1990,12 Years,SE,Farjestad,Round 1 (#24 overall) 2009,Minnesota Wild
+Zach Bogosian,https://www.spotrac.com/nhl/player/_/id/4819,1250000,1.42,1250000,-,2024,2,2,2026,2500000,UFA,34-75d,Jul 15 1990,14 Years,US,Peterborough,Round 1 (#3 overall) 2008,Minnesota Wild
+Jon Merrill,https://www.spotrac.com/nhl/player/_/id/13052,1200000,1.36,1200000,-,2022,3,1,2025,3600000,UFA,32-237d,Feb 03 1992,9 Years,US,Michigan,Round 2 (#38 overall) 2010,Minnesota Wild
+Declan Chisholm,https://www.spotrac.com/nhl/player/_/id/27221,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,24-257d,Jan 12 2000,,CA,Peterborough,Round 5 (#150 overall) 2018,Minnesota Wild
+Brock Faber,https://www.spotrac.com/nhl/player/_/id/62906,925000,1.05,832500,92500,2025,8,9,2033,68000000,UFA,22-34d,Aug 22 2002,,US,,Round 2 (#45 overall) 2020,Minnesota Wild
+Marat Khusnutdinov,https://www.spotrac.com/nhl/player/_/id/62898,925000,1.05,832500,92500,2023,2,1,2025,2700000,RFA,22-70d,Jul 17 2002,,RU,,Round 2 (#37 overall) 2020,Minnesota Wild
+Liam Ohgren,https://www.spotrac.com/nhl/player/_/id/78329,886667,1.01,855000,95000,2024,3,3,2027,4325000,RFA,20-240d,Jan 28 2004,,SE,,Round 1 (#19 overall) 2022,Minnesota Wild
+Marco Rossi,https://www.spotrac.com/nhl/player/_/id/62866,863333,0.98,832500,-,2022,3,1,2025,5325000,RFA,22-2d,Sep 23 2001,,AT,,Round 1 (#9 overall) 2020,Minnesota Wild
+Jakub Lauko,https://www.spotrac.com/nhl/player/_/id/27147,787500,0.89,800000,-,2023,2,1,2025,1575000,RFA,24-181d,Mar 28 2000,1 Years,CZ,Chomutov,Round 3 (#77 overall) 2018,Minnesota Wild
+Reese Johnson,https://www.spotrac.com/nhl/player/_/id/28750,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,26-78d,Jul 10 1998,3 Years,CA,,Undrafted CHI 2019,Minnesota Wild
+Carey Price,https://www.spotrac.com/nhl/player/_/id/1837,10500000,11.93,2000000,5500000,2018,8,2,2026,84000000,UFA,37-45d,Aug 15 1987,14 Years,CA,Tri-City,Round 1 (#5 overall) 2005,Montreal Canadiens
+Patrik Laine,https://www.spotrac.com/nhl/player/_/id/20277,8700000,9.89,7100000,2000000,2022,4,2,2026,34800000,UFA,26-160d,Apr 19 1998,7 Years,FI,Tappara,Round 1 (#2 overall) 2016,Montreal Canadiens
+Nick Suzuki,https://www.spotrac.com/nhl/player/_/id/23692,7875000,8.95,10000000,-,2022,8,6,2030,63000000,UFA,25-47d,Aug 10 1999,3 Years,CA,Owen Sound,Round 1 (#13 overall) 2017,Montreal Canadiens
+Cole Caufield,https://www.spotrac.com/nhl/player/_/id/31639,7850000,8.92,4975000,5000000,2023,8,7,2031,62800000,UFA,23-266d,Jan 02 2001,2 Years,US,USA U-18,Round 1 (#15 overall) 2019,Montreal Canadiens
+Brendan Gallagher,https://www.spotrac.com/nhl/player/_/id/8467,6500000,7.39,9000000,-,2021,6,3,2027,39000000,UFA,32-144d,May 06 1992,10 Years,CA,Vancouver,Round 5 (#147 overall) 2010,Montreal Canadiens
+Josh Anderson,https://www.spotrac.com/nhl/player/_/id/13689,5500000,6.25,7000000,-,2020,7,3,2027,38500000,UFA,30-143d,May 07 1994,8 Years,CA,London,Round 4 (#95 overall) 2012,Montreal Canadiens
+Michael Matheson,https://www.spotrac.com/nhl/player/_/id/16618,4875000,5.54,4000000,2500000,2018,8,2,2026,39000000,UFA,30-212d,Feb 27 1994,7 Years,CA,Boston College,Round 1 (#23 overall) 2012,Montreal Canadiens
+Christian Dvorak,https://www.spotrac.com/nhl/player/_/id/16714,4450000,5.06,5750000,-,2019,6,1,2025,26700000,UFA,28-237d,Feb 02 1996,6 Years,US,Wisconsin,Round 2 (#58 overall) 2014,Montreal Canadiens
+David Savard,https://www.spotrac.com/nhl/player/_/id/6862,3500000,3.98,2300000,500000,2021,4,1,2025,14000000,UFA,33-342d,Oct 21 1990,11 Years,CA,Moncton,Round 4 (#94 overall) 2009,Montreal Canadiens
+Joel Armia,https://www.spotrac.com/nhl/player/_/id/10738,3400000,3.86,3800000,-,2021,4,1,2025,13600000,UFA,32-119d,May 31 1992,8 Years,FI,Assat Pori,Round 1 (#16 overall) 2011,Montreal Canadiens
+Kirby Dach,https://www.spotrac.com/nhl/player/_/id/31627,3362500,3.82,2850000,-,2022,4,2,2026,13450000,UFA,23-247d,Jan 21 2001,3 Years,CA,Saskatoon,Round 1 (#3 overall) 2019,Montreal Canadiens
+Samuel Montembeault,https://www.spotrac.com/nhl/player/_/id/19784,3150000,3.58,3000000,1000000,2024,3,3,2027,9450000,UFA,27-331d,Oct 30 1996,3 Years,CA,Blainville-Boisbrian,Round 3 (#77 overall) 2015,Montreal Canadiens
+Alex Newhook,https://www.spotrac.com/nhl/player/_/id/31640,2900000,3.30,3300000,-,2023,4,3,2027,11600000,RFA,23-240d,Jan 28 2001,2 Years,CA,Boston College,Round 1 (#16 overall) 2019,Montreal Canadiens
+Jake Evans,https://www.spotrac.com/nhl/player/_/id/25078,1700000,1.93,1700000,-,2022,3,1,2025,5100000,UFA,28-116d,Jun 02 1996,3 Years,CA,Notre Dame,Round 7 (#207 overall) 2014,Montreal Canadiens
+Arber Xhekaj,https://www.spotrac.com/nhl/player/_/id/74573,1300000,1.48,1300000,-,2024,2,2,2026,2600000,RFA,23-238d,Jan 30 2001,,CA,,Undrafted MTL 2021,Montreal Canadiens
+Justin Barron,https://www.spotrac.com/nhl/player/_/id/62882,1150000,1.31,1150000,-,2024,2,2,2026,2300000,RFA,22-314d,Nov 15 2001,1 Years,CA,,Round 1 (#25 overall) 2020,Montreal Canadiens
+Rafael Harvey-Pinard,https://www.spotrac.com/nhl/player/_/id/31825,1100000,1.25,1000000,-,2023,2,1,2025,2200000,RFA,25-263d,Jan 06 1999,,CA,Rouyn-Noranda,Round 7 (#201 overall) 2019,Montreal Canadiens
+Lane Hutson,https://www.spotrac.com/nhl/player/_/id/78372,950000,1.08,855000,95000,2023,3,2,2026,4450000,RFA,20-223d,Feb 14 2004,,US,,Round 2 (#62 overall) 2022,Montreal Canadiens
+Juraj Slafkovsky,https://www.spotrac.com/nhl/player/_/id/78311,950000,1.08,855000,95000,2025,8,9,2033,60800000,UFA,20-178d,Mar 30 2004,,SK,,Round 1 (#1 overall) 2022,Montreal Canadiens
+Cayden Primeau,https://www.spotrac.com/nhl/player/_/id/28971,890000,1.01,1100000,-,2022,3,1,2025,2670000,RFA,25-46d,Aug 11 1999,,US,,Round 7 (#199 overall) 2017,Montreal Canadiens
+Jayden Struble,https://www.spotrac.com/nhl/player/_/id/31670,867500,0.99,775000,92500,2023,2,1,2025,1850000,RFA,23-47d,Aug 09 2001,,US,St. Sebastians,Round 2 (#46 overall) 2019,Montreal Canadiens
+Kaiden Guhle,https://www.spotrac.com/nhl/player/_/id/62873,863333,0.98,832500,-,2025,6,7,2031,33300000,UFA,22-250d,Jan 18 2002,,CA,,Round 1 (#16 overall) 2020,Montreal Canadiens
+Joshua Roy,https://www.spotrac.com/nhl/player/_/id/73927,835000,0.95,775000,85000,2023,3,2,2026,2710000,RFA,21-50d,Aug 06 2003,,CA,Sherbrooke,Round 5 (#150 overall) 2021,Montreal Canadiens
+Michael Pezzetta,https://www.spotrac.com/nhl/player/_/id/20447,812500,0.92,850000,-,2023,2,1,2025,1625000,UFA,26-197d,Mar 13 1998,1 Years,CA,Sudbury,Round 6 (#160 overall) 2016,Montreal Canadiens
+Alex Barre-Boulet,https://www.spotrac.com/nhl/player/_/id/24995,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,27-128d,May 21 1997,2 Years,CA,,Undrafted TBL 2018,Montreal Canadiens
+Roman Josi,https://www.spotrac.com/nhl/player/_/id/6839,9059000,10.29,9000000,-,2020,8,4,2028,72472000,UFA,34-119d,Jun 01 1990,11 Years,CH,Bern,Round 2 (#38 overall) 2008,Nashville Predators
+Filip Forsberg,https://www.spotrac.com/nhl/player/_/id/10758,8500000,9.66,10000000,-,2022,8,6,2030,68000000,UFA,30-45d,Aug 13 1994,10 Years,SE,Leksand,Round 1 (#11 overall) 2012,Nashville Predators
+Steven Stamkos,https://www.spotrac.com/nhl/player/_/id/4918,8000000,9.09,7500000,2000000,2024,4,4,2028,32000000,UFA,34-233d,Feb 07 1990,14 Years,CA,Sarnia,Round 1 (#1 overall) 2008,Nashville Predators
+Brady Skjei,https://www.spotrac.com/nhl/player/_/id/16619,7000000,7.95,6000000,4000000,2024,7,7,2031,49000000,UFA,30-185d,Mar 26 1994,8 Years,US,Minnesota,Round 1 (#28 overall) 2012,Nashville Predators
+Jonathan Marchessault,https://www.spotrac.com/nhl/player/_/id/16608,5500000,6.25,4000000,3000000,2024,5,5,2029,27500000,UFA,33-275d,Dec 27 1990,9 Years,CA,Quebec,Undrafted CBJ 2012,Nashville Predators
+Juuse Saros,https://www.spotrac.com/nhl/player/_/id/17915,5000000,5.68,5000000,-,2025,8,9,2033,61920000,UFA,29-161d,Apr 19 1995,7 Years,FI,HPK,Round 4 (#99 overall) 2013,Nashville Predators
+Ryan O'Reilly,https://www.spotrac.com/nhl/player/_/id/6353,4500000,5.11,5000000,-,2023,4,3,2027,18000000,UFA,33-233d,Feb 07 1991,13 Years,CA,Erie,Round 2 (#33 overall) 2009,Nashville Predators
+Alex Carrier,https://www.spotrac.com/nhl/player/_/id/18296,3750000,4.26,4600000,-,2024,3,3,2027,11250000,UFA,33-222d,Feb 18 1991,4 Years,CA,Val-d'Or,Round 4 (#115 overall) 2015,Nashville Predators
+Thomas Novak,https://www.spotrac.com/nhl/player/_/id/47425,3500000,3.98,3500000,-,2024,3,3,2027,10500000,UFA,27-161d,Apr 18 1997,1 Years,US,,Round 3 (#85 overall) 2015,Nashville Predators
+Gustav Nyquist,https://www.spotrac.com/nhl/player/_/id/11662,3185000,3.62,3185000,-,2023,2,1,2025,6370000,UFA,35-28d,Aug 31 1989,10 Years,SE,Maine,Round 4 (#121 overall) 2008,Nashville Predators
+Colton Sissons,https://www.spotrac.com/nhl/player/_/id/10797,2857412,3.25,2300000,-,2019,7,2,2026,20000000,UFA,30-326d,Nov 05 1993,8 Years,CA,Kelowna,Round 2 (#50 overall) 2012,Nashville Predators
+Luke Schenn,https://www.spotrac.com/nhl/player/_/id/4926,2750000,3.13,2750000,-,2023,3,2,2026,8250000,UFA,34-330d,Nov 02 1989,14 Years,CA,Kelowna,Round 1 (#5 overall) 2008,Nashville Predators
+Dante Fabbro,https://www.spotrac.com/nhl/player/_/id/20300,2500000,2.84,2500000,-,2024,1,1,2025,2500000,UFA,26-98d,Jun 20 1998,4 Years,CA,Penticton,Round 1 (#17 overall) 2016,Nashville Predators
+Jeremy Lauzon,https://www.spotrac.com/nhl/player/_/id/18299,2000000,2.27,2000000,-,2022,4,2,2026,8000000,UFA,27-151d,Apr 28 1997,4 Years,CA,Rouyn-Noranda,Round 2 (#52 overall) 2015,Nashville Predators
+Scott Wedgewood,https://www.spotrac.com/nhl/player/_/id/8958,1500000,1.70,1500000,-,2024,2,2,2026,3000000,UFA,32-44d,Aug 14 1992,5 Years,CA,Plymouth,Round 3 (#84 overall) 2010,Nashville Predators
+Cole Smith,https://www.spotrac.com/nhl/player/_/id/47398,1000000,1.14,1000000,-,2024,2,2,2026,2000000,UFA,28-334d,Oct 28 1995,2 Years,US,,Undrafted NSH 2020,Nashville Predators
+Michael McCarron,https://www.spotrac.com/nhl/player/_/id/13411,900000,1.02,900000,-,2024,2,2,2026,1800000,UFA,29-204d,Mar 07 1995,4 Years,,,Round 1 (#25 overall) 2013,Nashville Predators
+Spencer Stastney,https://www.spotrac.com/nhl/player/_/id/27202,825000,0.94,825000,-,2024,2,2,2026,1650000,RFA,24-265d,Jan 04 2000,,US,USA U-18,Round 5 (#131 overall) 2018,Nashville Predators
+Mark Jankowski,https://www.spotrac.com/nhl/player/_/id/10768,800000,0.91,775000,-,2024,2,2,2026,1600000,UFA,30-14d,Sep 13 1994,4 Years,CA,Providence,Round 1 (#21 overall) 2012,Nashville Predators
+Luke Evangelista,https://www.spotrac.com/nhl/player/_/id/62903,797500,0.91,775000,-,2022,3,1,2025,2775000,RFA,22-216d,Feb 21 2002,,CA,,Round 2 (#42 overall) 2020,Nashville Predators
+Juuso Parssinen,https://www.spotrac.com/nhl/player/_/id/31834,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,23-236d,Feb 01 2001,,FI,TPS,Round 7 (#210 overall) 2019,Nashville Predators
+Dougie Hamilton,https://www.spotrac.com/nhl/player/_/id/11655,9000000,10.23,10000000,2600000,2021,7,4,2028,63000000,UFA,31-102d,Jun 17 1993,10 Years,CA,Niagara,Round 1 (#9 overall) 2011,New Jersey Devils
+Timo Meier,https://www.spotrac.com/nhl/player/_/id/17978,8800000,10.00,5350000,5750000,2023,8,7,2031,70400000,UFA,27-353d,Oct 08 1996,6 Years,CH,Halifax,Round 1 (#9 overall) 2015,New Jersey Devils
+Jack Hughes,https://www.spotrac.com/nhl/player/_/id/31625,8000000,9.09,8500000,-,2022,8,6,2030,64000000,UFA,23-134d,May 14 2001,3 Years,US,USA U-18,Round 1 (#1 overall) 2019,New Jersey Devils
+Jesper Bratt,https://www.spotrac.com/nhl/player/_/id/20449,7875000,8.95,4000000,5000000,2023,8,7,2031,63000000,UFA,26-58d,Jul 30 1998,5 Years,SE,AIK,Round 6 (#162 overall) 2016,New Jersey Devils
+Nico Hischier,https://www.spotrac.com/nhl/player/_/id/23680,7250000,8.24,7750000,-,2020,7,3,2027,50570000,UFA,25-265d,Jan 04 1999,5 Years,CH,Halifax,Round 1 (#1 overall) 2017,New Jersey Devils
+Ondrej Palat,https://www.spotrac.com/nhl/player/_/id/8463,6000000,6.82,1770000,3180000,2022,5,3,2027,30000000,UFA,33-184d,Mar 28 1991,10 Years,CZ,Drummondville,Round 7 (#208 overall) 2011,New Jersey Devils
+Brett Pesce,https://www.spotrac.com/nhl/player/_/id/16545,5500000,6.25,2000000,5000000,2024,6,6,2030,33000000,UFA,29-316d,Nov 15 1994,8 Years,US,New Hampshire,Round 3 (#66 overall) 2013,New Jersey Devils
+Jacob Markstrom,https://www.spotrac.com/nhl/player/_/id/6833,4125000,4.69,3500000,2500000,2020,6,2,2026,36000000,UFA,34-240d,Jan 31 1990,13 Years,SE,Brynas,Round 2 (#31 overall) 2008,New Jersey Devils
+Brenden Dillon,https://www.spotrac.com/nhl/player/_/id/11661,4000000,4.55,3000000,2000000,2024,3,3,2027,12000000,UFA,33-319d,Nov 13 1990,11 Years,CA,Seattle,Undrafted DAL 2011,New Jersey Devils
+Jonas Siegenthaler,https://www.spotrac.com/nhl/player/_/id/20162,3400000,3.86,4000000,-,2023,5,4,2028,17000000,UFA,27-143d,May 06 1997,4 Years,CH,Zurich,Round 2 (#57 overall) 2015,New Jersey Devils
+Erik Haula,https://www.spotrac.com/nhl/player/_/id/12229,3150000,3.58,2150000,1000000,2023,3,2,2026,9450000,UFA,33-189d,Mar 23 1991,9 Years,FI,Minnesota,Round 7 (#181 overall) 2009,New Jersey Devils
+Stefan Noesen,https://www.spotrac.com/nhl/player/_/id/8563,2750000,3.13,1750000,1000000,2024,3,3,2027,8250000,UFA,31-227d,Feb 12 1993,9 Years,US,Plymouth,Round 1 (#21 overall) 2011,New Jersey Devils
+Jake Allen,https://www.spotrac.com/nhl/player/_/id/11937,3850000,4.38,2300000,1000000,2023,2,1,2025,7700000,UFA,34-52d,Aug 07 1990,9 Years,CA,Montreal,Round 2 (#34 overall) 2008,New Jersey Devils
+Tomas Tatar,https://www.spotrac.com/nhl/player/_/id/7140,1800000,2.05,1800000,-,2024,1,1,2025,1800000,UFA,33-302d,Nov 30 1990,12 Years,SK,Zvolen,Round 2 (#60 overall) 2009,New Jersey Devils
+Nathan Bastian,https://www.spotrac.com/nhl/player/_/id/20326,1350000,1.53,1350000,-,2023,2,1,2025,2700000,UFA,26-294d,Dec 06 1997,3 Years,CA,Mississauga,Round 2 (#41 overall) 2016,New Jersey Devils
+Kurtis Macdermid,https://www.spotrac.com/nhl/player/_/id/11274,1150000,1.31,1000000,250000,2024,3,3,2027,3450000,UFA,30-186d,Mar 25 1994,6 Years,CA,Erie,Undrafted LAK 2012,New Jersey Devils
+Curtis Lazar,https://www.spotrac.com/nhl/player/_/id/13558,1000000,1.14,1000000,-,2022,3,1,2025,3000000,UFA,29-237d,Feb 02 1995,8 Years,CA,Edmonton,Round 1 (#17 overall) 2013,New Jersey Devils
+Luke Hughes,https://www.spotrac.com/nhl/player/_/id/73757,925000,1.05,832500,92500,2022,3,1,2025,5550000,RFA,21-16d,Sep 09 2003,,US,USA U-18,Round 1 (#4 overall) 2021,New Jersey Devils
+Simon Nemec,https://www.spotrac.com/nhl/player/_/id/78312,918333,1.04,855000,95000,2023,3,2,2026,12600000,RFA,20-222d,Feb 15 2004,,SK,,Round 1 (#2 overall) 2022,New Jersey Devils
+Paul Cotter,https://www.spotrac.com/nhl/player/_/id/27185,775000,0.88,775000,-,2023,3,2,2026,2325000,RFA,24-314d,Nov 16 1999,1 Years,US,Lincoln,Round 4 (#115 overall) 2018,New Jersey Devils
+Max Willman,https://www.spotrac.com/nhl/player/_/id/72091,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,29-226d,Feb 13 1995,,US,,Undrafted PHI 2021,New Jersey Devils
+Johnathan Kovacevic,https://www.spotrac.com/nhl/player/_/id/23796,766666,0.87,775000,-,2022,3,1,2025,2300000,UFA,27-76d,Jul 12 1997,1 Years,CA,Merrimack,Round 3 (#74 overall) 2017,New Jersey Devils
+Mathew Barzal,https://www.spotrac.com/nhl/player/_/id/18208,9150000,10.40,9150000,-,2023,8,7,2031,73200000,UFA,27-123d,May 26 1997,6 Years,CA,Seattle,Round 1 (#16 overall) 2015,New York Islanders
+Bo Horvat,https://www.spotrac.com/nhl/player/_/id/13476,8500000,9.66,8500000,-,2023,8,7,2031,68000000,UFA,29-175d,Apr 05 1995,8 Years,CA,London,Round 1 (#9 overall) 2013,New York Islanders
+Ilya Sorokin,https://www.spotrac.com/nhl/player/_/id/48849,8250000,9.38,8250000,-,2024,8,8,2032,66000000,UFA,29-54d,Aug 04 1995,2 Years,RU,,Round 3 (#78 overall) 2014,New York Islanders
+Anders Lee,https://www.spotrac.com/nhl/player/_/id/12180,7000000,7.95,5850000,-,2019,7,2,2026,49000000,UFA,34-87d,Jul 03 1990,10 Years,US,Notre Dame,Round 6 (#151 overall) 2009,New York Islanders
+Ryan Pulock,https://www.spotrac.com/nhl/player/_/id/13585,6150000,6.99,6150000,-,2022,8,6,2030,49200000,UFA,29-356d,Oct 06 1994,7 Years,CA,Brandon,Round 1 (#15 overall) 2013,New York Islanders
+Brock Nelson,https://www.spotrac.com/nhl/player/_/id/9379,6000000,6.82,4000000,-,2019,6,1,2025,36000000,UFA,32-348d,Oct 15 1991,9 Years,US,North Dakota,Round 1 (#30 overall) 2010,New York Islanders
+Adam Pelech,https://www.spotrac.com/nhl/player/_/id/17917,5750000,6.53,5750000,-,2021,8,5,2029,46000000,UFA,30-42d,Aug 16 1994,7 Years,CA,Erie,Round 3 (#65 overall) 2012,New York Islanders
+Kyle Palmieri,https://www.spotrac.com/nhl/player/_/id/11654,5000000,5.68,5000000,-,2021,4,1,2025,20000000,UFA,33-239d,Feb 01 1991,12 Years,US,Notre Dame,Round 1 (#26 overall) 2009,New York Islanders
+Jean-Gabriel Pageau,https://www.spotrac.com/nhl/player/_/id/10725,5000000,5.68,4000000,-,2020,6,2,2026,30000000,UFA,31-320d,Nov 11 1992,10 Years,CA,Gatineau,Round 4 (#95 overall) 2011,New York Islanders
+Noah Dobson,https://www.spotrac.com/nhl/player/_/id/27051,4000000,4.55,4000000,-,2022,3,1,2025,12000000,RFA,24-262d,Jan 07 2000,3 Years,CA,Acadie-Bathurst,Round 1 (#12 overall) 2018,New York Islanders
+Anthony Duclair,https://www.spotrac.com/nhl/player/_/id/13797,3500000,3.98,3500000,-,2024,4,4,2028,14000000,UFA,29-32d,Aug 26 1995,8 Years,CA,Quebec,Round 3 (#80 overall) 2013,New York Islanders
+Scott Mayfield,https://www.spotrac.com/nhl/player/_/id/12211,3500000,3.98,3500000,-,2023,7,6,2030,24500000,UFA,31-348d,Oct 14 1992,8 Years,US,Denver,Round 2 (#34 overall) 2011,New York Islanders
+Pierre Engvall,https://www.spotrac.com/nhl/player/_/id/25953,3000000,3.41,3000000,-,2023,7,6,2030,21000000,UFA,28-118d,May 31 1996,3 Years,SE,HV71 Jonkoping,Round 7 (#188 overall) 2014,New York Islanders
+Semyon Varlamov,https://www.spotrac.com/nhl/player/_/id/6248,2750000,3.13,2750000,-,2023,4,3,2027,11000000,UFA,36-155d,Apr 26 1988,14 Years,RU,Yaroslavl,Round 1 (#23 overall) 2006,New York Islanders
+Casey Cizikas,https://www.spotrac.com/nhl/player/_/id/10623,2500000,2.84,2500000,-,2021,6,3,2027,15000000,UFA,33-213d,Feb 27 1991,11 Years,CA,St. Michael's,Round 4 (#92 overall) 2009,New York Islanders
+Alexander Romanov,https://www.spotrac.com/nhl/player/_/id/27107,2500000,2.84,2500000,-,2022,3,1,2025,7500000,RFA,24-263d,Jan 06 2000,2 Years,RU,Russia U-18,Round 2 (#38 overall) 2018,New York Islanders
+Mike Reilly,https://www.spotrac.com/nhl/player/_/id/17955,1250000,1.42,1250000,-,2024,1,1,2025,1250000,UFA,31-76d,Jul 13 1993,7 Years,US,Minnesota,Round 4 (#97 overall) 2011,New York Islanders
+Oliver Wahlstrom,https://www.spotrac.com/nhl/player/_/id/27050,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,24-104d,Jun 13 2000,2 Years,US,USA U-18,Round 1 (#11 overall) 2018,New York Islanders
+Simon Holmstrom,https://www.spotrac.com/nhl/player/_/id/31646,850000,0.97,850000,-,2024,1,1,2025,850000,RFA,23-124d,May 24 2001,,SE,HV 71,Round 1 (#23 overall) 2019,New York Islanders
+Samuel Bolduc,https://www.spotrac.com/nhl/player/_/id/31681,800000,0.91,800000,-,2023,2,1,2025,1600000,RFA,23-290d,Dec 09 2000,,CA,Blainville-Boisbrian,Round 2 (#57 overall) 2019,New York Islanders
+Hudson Fasching,https://www.spotrac.com/nhl/player/_/id/18860,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,29-61d,Jul 28 1995,5 Years,US,Minnesota,Round 4 (#118 overall) 2013,New York Islanders
+Kyle MacLean,https://www.spotrac.com/nhl/player/_/id/83302,775000,0.88,775000,-,2024,3,3,2027,2325000,UFA,25-150d,Apr 29 1999,,US,,Undrafted NYI 2023,New York Islanders
+Artemi Panarin,https://www.spotrac.com/nhl/player/_/id/17517,11642857,13.23,1000000,9000000,2019,7,2,2026,81500000,UFA,32-333d,Oct 30 1991,7 Years,RU,St. Petersburg,Undrafted CHI 2015,New York Rangers
+Adam Fox,https://www.spotrac.com/nhl/player/_/id/20351,9500000,10.80,12000000,-,2022,7,5,2029,66500000,UFA,26-221d,Feb 17 1998,3 Years,US,USA U-18,Round 2 (#66 overall) 2016,New York Rangers
+Mika Zibanejad,https://www.spotrac.com/nhl/player/_/id/8254,8500000,9.66,1000000,9500000,2022,8,6,2030,68000000,UFA,31-162d,Apr 18 1993,11 Years,SE,Djurgarden,Round 1 (#6 overall) 2011,New York Rangers
+Jacob Trouba,https://www.spotrac.com/nhl/player/_/id/10756,8000000,9.09,6000000,-,2019,7,2,2026,56000000,UFA,30-213d,Feb 26 1994,9 Years,US,Michigan,Round 1 (#9 overall) 2012,New York Rangers
+Chris Kreider,https://www.spotrac.com/nhl/player/_/id/9372,6500000,7.39,5000000,-,2020,7,3,2027,45500000,UFA,33-151d,Apr 30 1991,10 Years,US,Boston College,Round 1 (#19 overall) 2009,New York Rangers
+Igor Shesterkin,https://www.spotrac.com/nhl/player/_/id/29734,5666667,6.44,6666667,-,2021,4,1,2025,22666667,UFA,28-271d,Dec 30 1995,3 Years,RU,,Round 4 (#118 overall) 2014,New York Rangers
+Vincent Trocheck,https://www.spotrac.com/nhl/player/_/id/10602,5625000,6.39,3375000,3000000,2022,7,5,2029,39375000,UFA,31-78d,Jul 11 1993,9 Years,US,Saginaw,Round 3 (#64 overall) 2011,New York Rangers
+Ryan Lindgren,https://www.spotrac.com/nhl/player/_/id/20334,4500000,5.11,4000000,500000,2024,1,1,2025,4500000,UFA,26-227d,Feb 11 1998,4 Years,US,USA U-18,Round 2 (#49 overall) 2016,New York Rangers
+Filip Chytil,https://www.spotrac.com/nhl/player/_/id/23700,4437500,5.04,4625000,-,2023,4,3,2027,17750000,UFA,25-21d,Sep 05 1999,5 Years,CZ,Zlin,Round 1 (#21 overall) 2017,New York Rangers
+K'Andre Miller,https://www.spotrac.com/nhl/player/_/id/27085,3872000,4.40,4646000,-,2023,2,1,2025,7744000,RFA,24-248d,Jan 21 2000,2 Years,US,USA U-18,Round 1 (#22 overall) 2018,New York Rangers
+Reilly Smith,https://www.spotrac.com/nhl/player/_/id/9374,5000000,5.68,4000000,-,2022,3,1,2025,15000000,UFA,33-181d,Mar 31 1991,11 Years,CA,Miami (OH),Round 3 (#69 overall) 2009,New York Rangers
+Kaapo Kakko,https://www.spotrac.com/nhl/player/_/id/31626,2400000,2.73,2400000,-,2024,1,1,2025,2400000,RFA,23-224d,Feb 13 2001,3 Years,FI,TPS,Round 1 (#2 overall) 2019,New York Rangers
+Alexis Lafrenière,https://www.spotrac.com/nhl/player/_/id/62858,2325000,2.64,2650000,-,2023,2,1,2025,4650000,RFA,22-349d,Oct 11 2001,2 Years,CA,,Round 1 (#1 overall) 2020,New York Rangers
+Braden Schneider,https://www.spotrac.com/nhl/player/_/id/62876,2200000,2.50,1635000,125000,2024,2,2,2026,4400000,RFA,22-4d,Sep 21 2001,1 Years,CA,,Round 1 (#19 overall) 2020,New York Rangers
+Jonathan Quick,https://www.spotrac.com/nhl/player/_/id/6216,1275000,1.45,775000,500000,2024,1,1,2025,1300000,UFA,38-252d,Jan 20 1986,15 Years,US,Massachusetts,Round 3 (#72 overall) 2005,New York Rangers
+Sam Carrick,https://www.spotrac.com/nhl/player/_/id/9304,1000000,1.14,900000,100000,2024,3,3,2027,3000000,UFA,32-236d,Feb 04 1992,7 Years,CA,Brampton,Round 5 (#144 overall) 2010,New York Rangers
+Adam Edstrom,https://www.spotrac.com/nhl/player/_/id/31785,846667,0.96,775000,80000,2022,3,1,2025,2540000,RFA,23-348d,Oct 12 2000,,SE,Mora,Round 6 (#161 overall) 2019,New York Rangers
+Will Cuylle,https://www.spotrac.com/nhl/player/_/id/62921,828333,0.94,775000,-,2022,3,1,2025,2775000,RFA,22-146d,May 02 2002,,CA,,Round 2 (#60 overall) 2020,New York Rangers
+Matthew Rempe,https://www.spotrac.com/nhl/player/_/id/63027,820000,0.93,775000,-,2022,3,1,2025,2515000,RFA,22-88d,Jun 29 2002,,CA,,Round 6 (#165 overall) 2020,New York Rangers
+Zachary Jones,https://www.spotrac.com/nhl/player/_/id/31692,812500,0.92,825000,-,2023,2,1,2025,1625000,RFA,23-342d,Oct 18 2000,2 Years,US,Tri-City,Round 3 (#68 overall) 2019,New York Rangers
+Jimmy Vesey,https://www.spotrac.com/nhl/player/_/id/20981,800000,0.91,800000,-,2023,2,1,2025,1600000,UFA,31-124d,May 26 1993,6 Years,US,Harvard,Undrafted NYR 2016,New York Rangers
+Jonny Brodzinski,https://www.spotrac.com/nhl/player/_/id/16638,787500,0.89,775000,-,2024,2,2,2026,1575000,UFA,31-100d,Jun 19 1993,,US,St. Cloud State,Round 5 (#148 overall) 2013,New York Rangers
+Chad Ruhwedel,https://www.spotrac.com/nhl/player/_/id/12233,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,34-144d,May 07 1990,10 Years,US,Massachusetts,Undrafted PIT 2013,New York Rangers
+Tim Stützle,https://www.spotrac.com/nhl/player/_/id/62860,8350000,9.49,6500000,-,2023,8,7,2031,66800000,UFA,22-253d,Jan 15 2002,2 Years,DE,,Round 1 (#3 overall) 2020,Ottawa Senators
+Brady Tkachuk,https://www.spotrac.com/nhl/player/_/id/27040,8205714,9.32,10500000,-,2021,7,4,2028,57500000,UFA,25-10d,Sep 16 1999,4 Years,US,Boston,Round 1 (#4 overall) 2018,Ottawa Senators
+Jake Sanderson,https://www.spotrac.com/nhl/player/_/id/62862,8050000,9.15,8050000,-,2024,8,8,2032,64000000,UFA,22-79d,Jul 08 2002,,US,,Round 1 (#5 overall) 2020,Ottawa Senators
+Thomas Chabot,https://www.spotrac.com/nhl/player/_/id/18267,8000000,9.09,10000000,-,2020,8,4,2028,64000000,UFA,27-239d,Jan 30 1997,6 Years,CA,Saint John,Round 1 (#18 overall) 2015,Ottawa Senators
+Josh Norris,https://www.spotrac.com/nhl/player/_/id/23698,7950000,9.03,9500000,-,2022,8,6,2030,63600000,UFA,25-144d,May 05 1999,2 Years,US,USA U-18,Round 1 (#19 overall) 2017,Ottawa Senators
+Claude Giroux,https://www.spotrac.com/nhl/player/_/id/6228,6500000,7.39,5500000,-,2022,3,1,2025,19500000,UFA,36-260d,Jan 12 1988,15 Years,CA,Gatineau,Round 1 (#22 overall) 2006,Ottawa Senators
+Linus Ullmark,https://www.spotrac.com/nhl/player/_/id/15283,5000000,5.68,3500000,1000000,2021,4,1,2025,20000000,UFA,31-58d,Jul 31 1993,8 Years,SE,MODO,Round 6 (#163 overall) 2012,Ottawa Senators
+Drake Batherson,https://www.spotrac.com/nhl/player/_/id/24515,4975000,5.65,5400000,-,2021,6,3,2027,29850000,UFA,26-152d,Apr 27 1998,4 Years,US,Cape Breton,Round 4 (#121 overall) 2017,Ottawa Senators
+Artem Zub,https://www.spotrac.com/nhl/player/_/id/48255,4600000,5.23,4800000,-,2023,4,3,2027,18400000,UFA,28-359d,Oct 03 1995,2 Years,RU,,Undrafted OTT 2020,Ottawa Senators
+Nick Jensen,https://www.spotrac.com/nhl/player/_/id/13062,4050000,4.60,2150000,2000000,2023,3,2,2026,12150000,UFA,33-7d,Sep 21 1990,6 Years,US,St. Cloud State,Round 5 (#149 overall) 2009,Ottawa Senators
+David Perron,https://www.spotrac.com/nhl/player/_/id/2082,4000000,4.55,4000000,-,2024,2,2,2026,8000000,UFA,36-126d,May 25 1988,16 Years,CA,Lewiston,Round 1 (#26 overall) 2007,Ottawa Senators
+Shane Pinto,https://www.spotrac.com/nhl/player/_/id/31656,3750000,4.26,2500000,-,2024,2,2,2026,7500000,RFA,23-317d,Nov 12 2000,2 Years,US,Tri-City,Round 2 (#32 overall) 2019,Ottawa Senators
+Anton Forsberg,https://www.spotrac.com/nhl/player/_/id/13213,2750000,3.13,2750000,-,2022,3,1,2025,8250000,UFA,31-304d,Nov 27 1992,7 Years,SE,,Round 7 (#187 overall) 2011,Ottawa Senators
+Michael Amadio,https://www.spotrac.com/nhl/player/_/id/18832,2600000,2.95,2500000,-,2024,3,3,2027,7800000,UFA,28-136d,May 13 1996,5 Years,CA,,,Ottawa Senators
+Travis Hamonic,https://www.spotrac.com/nhl/player/_/id/6843,1100000,1.25,1100000,-,2023,2,1,2025,2200000,UFA,34-44d,Aug 15 1990,12 Years,CA,Moose Jaw,Round 2 (#53 overall) 2008,Ottawa Senators
+Tyler Kleven,https://www.spotrac.com/nhl/player/_/id/62905,916667,1.04,832500,-,2022,3,1,2025,3375000,RFA,22-258d,Jan 10 2002,,US,,Round 2 (#44 overall) 2020,Ottawa Senators
+Ridly Greig,https://www.spotrac.com/nhl/player/_/id/62885,863333,0.98,832500,-,2022,3,1,2025,2775000,RFA,22-48d,Aug 08 2002,,CA,,Round 1 (#28 overall) 2020,Ottawa Senators
+Noah Gregor,https://www.spotrac.com/nhl/player/_/id/20398,850000,0.97,850000,-,2024,1,1,2025,850000,UFA,26-241d,Jan 28 1998,3 Years,CA,Moose Jaw,Round 4 (#111 overall) 2016,Ottawa Senators
+Jacob Bernard-Docker,https://www.spotrac.com/nhl/player/_/id/27089,805000,0.91,825000,-,2023,2,1,2025,1610000,RFA,24-87d,Jun 30 2000,,CA,Okotoks,Round 1 (#26 overall) 2018,Ottawa Senators
+Nick Cousins,https://www.spotrac.com/nhl/player/_/id/9293,800000,0.91,800000,-,2024,1,1,2025,800000,UFA,31-69d,Jul 20 1993,8 Years,CA,Sault Ste. Marie,Round 3 (#68 overall) 2011,Ottawa Senators
+Angus Crookshank,https://www.spotrac.com/nhl/player/_/id/27197,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,24-359d,Oct 02 1999,,CA,Langley,Round 5 (#126 overall) 2018,Ottawa Senators
+Zack MacEwen,https://www.spotrac.com/nhl/player/_/id/21582,775000,0.88,775000,-,2023,3,2,2026,2325000,UFA,28-80d,Jul 08 1996,4 Years,CA,Moncton,Undrafted VAN 2017,Ottawa Senators
+Sean Couturier,https://www.spotrac.com/nhl/player/_/id/8412,7750000,8.81,4000000,5000000,2022,8,6,2030,62000000,UFA,31-295d,Dec 06 1992,11 Years,US,Drummondville,Round 1 (#8 overall) 2011,Philadelphia Flyers
+Ryan Ellis,https://www.spotrac.com/nhl/player/_/id/10721,6250000,7.10,6500000,-,2019,8,3,2027,50000000,UFA,33-268d,Jan 03 1991,12 Years,CA,Windsor,Round 1 (#11 overall) 2009,Philadelphia Flyers
+Travis Sanheim,https://www.spotrac.com/nhl/player/_/id/15891,6250000,7.10,5125000,3000000,2023,8,7,2031,50000000,UFA,28-181d,Mar 29 1996,5 Years,CA,Calgary,Round 1 (#17 overall) 2014,Philadelphia Flyers
+Owen Tippett,https://www.spotrac.com/nhl/player/_/id/23689,6200000,7.05,1000000,5000000,2024,8,8,2032,49600000,UFA,25-222d,Feb 16 1999,3 Years,CA,Mississauga,Round 1 (#10 overall) 2017,Philadelphia Flyers
+Travis Konecny,https://www.spotrac.com/nhl/player/_/id/18007,5500000,6.25,4000000,3000000,2025,8,9,2033,70000000,UFA,27-199d,Mar 11 1997,6 Years,CA,Ottawa,Round 1 (#24 overall) 2015,Philadelphia Flyers
+Rasmus Ristolainen,https://www.spotrac.com/nhl/player/_/id/13410,5100000,5.80,6500000,-,2022,5,3,2027,25500000,UFA,29-304d,Nov 27 1994,9 Years,FI,TPS,Round 1 (#8 overall) 2013,Philadelphia Flyers
+Joel Farabee,https://www.spotrac.com/nhl/player/_/id/27053,5000000,5.68,3000000,2000000,2022,6,4,2028,30000000,UFA,24-213d,Feb 25 2000,3 Years,US,USA U-18,Round 1 (#14 overall) 2018,Philadelphia Flyers
+Ivan Fedotov,https://www.spotrac.com/nhl/player/_/id/77596,3250000,3.69,775000,2500000,2024,2,2,2026,6550000,RFA,27-302d,Nov 28 1996,,RU,,Undrafted PHI 2022,Philadelphia Flyers
+Scott Laughton,https://www.spotrac.com/nhl/player/_/id/10767,3000000,3.41,3625000,-,2021,5,2,2026,15000000,UFA,30-120d,May 30 1994,9 Years,,,Round 1 (#20 overall) 2012,Philadelphia Flyers
+Nick Seeler,https://www.spotrac.com/nhl/player/_/id/18872,2700000,3.07,1200000,1500000,2024,4,4,2028,10800000,UFA,31-116d,Jun 03 1993,4 Years,US,Nebraska-Omaha,Round 5 (#130 overall) 2011,Philadelphia Flyers
+Noah Cates,https://www.spotrac.com/nhl/player/_/id/76279,2625000,2.98,2625000,-,2023,2,1,2025,5250000,RFA,25-233d,Feb 05 1999,1 Years,US,,Round 5 (#137 overall) 2017,Philadelphia Flyers
+Garnet Hathaway,https://www.spotrac.com/nhl/player/_/id/17586,2375000,2.70,2050000,-,2025,2,3,2027,4800000,UFA,32-309d,Nov 23 1991,7 Years,,Brown,Undrafted CGY 2015,Philadelphia Flyers
+Jamie Drysdale,https://www.spotrac.com/nhl/player/_/id/62863,2300000,2.61,2300000,-,2023,3,2,2026,6900000,RFA,22-170d,Apr 08 2002,3 Years,CA,,Round 1 (#6 overall) 2020,Philadelphia Flyers
+Morgan Frost,https://www.spotrac.com/nhl/player/_/id/23706,2100000,2.39,2400000,-,2023,2,1,2025,420000,RFA,25-135d,May 14 1999,3 Years,CA,Sault Ste. Marie,Round 1 (#27 overall) 2017,Philadelphia Flyers
+Ryan Poehling,https://www.spotrac.com/nhl/player/_/id/23704,1900000,2.16,1900000,-,2024,2,2,2026,3800000,UFA,25-266d,Jan 03 1999,3 Years,US,St. Cloud State,Round 1 (#25 overall) 2017,Philadelphia Flyers
+Nicolas Deslauriers,https://www.spotrac.com/nhl/player/_/id/13088,1750000,1.99,1500000,-,2022,4,2,2026,7000000,UFA,33-218d,Feb 22 1991,9 Years,CA,Rouyn-Noranda,Round 3 (#84 overall) 2009,Philadelphia Flyers
+Yegor Zamula,https://www.spotrac.com/nhl/player/_/id/28049,1700000,1.93,1000000,500000,2024,2,2,2026,3400000,RFA,24-179d,Mar 30 2000,,RU,,Undrafted PHI 2018,Philadelphia Flyers
+Cameron York,https://www.spotrac.com/nhl/player/_/id/31638,1600000,1.82,1600000,-,2023,2,1,2025,3200000,RFA,23-263d,Jan 05 2001,2 Years,US,USA U-18,Round 1 (#14 overall) 2019,Philadelphia Flyers
+Bobby Brink,https://www.spotrac.com/nhl/player/_/id/31658,1500000,1.70,1250000,250000,2024,2,2,2026,3000000,RFA,23-79d,Jul 08 2001,,US,Sioux City Musketeers,Round 2 (#34 overall) 2019,Philadelphia Flyers
+Samuel Ersson,https://www.spotrac.com/nhl/player/_/id/27214,1450000,1.65,1000000,300000,2024,2,2,2026,2900000,RFA,24-341d,Oct 20 1999,,SE,Brynas,Round 5 (#143 overall) 2018,Philadelphia Flyers
+Erik Johnson,https://www.spotrac.com/nhl/player/_/id/2089,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,36-191d,Mar 21 1988,15 Years,US,Minnesota,Round 1 (#1 overall) 2006,Philadelphia Flyers
+Matvei Michkov,https://www.spotrac.com/nhl/player/_/id/84495,950000,1.08,855000,95000,2024,3,3,2027,12750000,RFA,19-289d,Dec 09 2004,,RU,,Round 1 (#7 overall) 2023,Philadelphia Flyers
+Tyson Foerster,https://www.spotrac.com/nhl/player/_/id/62880,863333,0.98,832500,-,2022,3,1,2025,2775000,RFA,22-250d,Jan 18 2002,,CA,,Round 1 (#23 overall) 2020,Philadelphia Flyers
+Erik Karlsson,https://www.spotrac.com/nhl/player/_/id/6396,11500000,13.07,10000000,1000000,2019,8,3,2027,92000000,UFA,34-121d,May 30 1990,13 Years,SE,Frolunda,Round 1 (#15 overall) 2008,Pittsburgh Penguins
+Sidney Crosby,https://www.spotrac.com/nhl/player/_/id/2018,8700000,9.89,3000000,-,2025,2,3,2027,17400000,UFA,37-53d,Aug 07 1987,17 Years,CA,Rimouski,Round 1 (#1 overall) 2005,Pittsburgh Penguins
+Kris Letang,https://www.spotrac.com/nhl/player/_/id/2035,6100000,6.93,6200000,-,2022,6,4,2028,36600000,UFA,37-158d,Apr 24 1987,16 Years,CA,Val-d'Or,Round 3 (#62 overall) 2005,Pittsburgh Penguins
+Evgeni Malkin,https://www.spotrac.com/nhl/player/_/id/2024,6100000,6.93,5600000,-,2022,4,2,2026,24400000,UFA,38-60d,Jul 31 1986,16 Years,RU,Magnitogorsk,Round 1 (#2 overall) 2004,Pittsburgh Penguins
+Tristan Jarry,https://www.spotrac.com/nhl/player/_/id/13529,5375000,6.11,5400000,1000000,2023,5,4,2028,26875000,UFA,29-151d,Apr 29 1995,6 Years,,,Round 2 (#44 overall) 2013,Pittsburgh Penguins
+Bryan Rust,https://www.spotrac.com/nhl/player/_/id/16137,5125000,5.82,5125000,-,2022,6,4,2028,30750000,UFA,32-139d,May 11 1992,8 Years,US,Notre Dame,Round 3 (#80 overall) 2010,Pittsburgh Penguins
+Rickard Rakell,https://www.spotrac.com/nhl/player/_/id/10896,5000000,5.68,6000000,-,2022,6,4,2028,30000000,UFA,31-145d,May 05 1993,10 Years,SE,Plymouth,Round 1 (#30 overall) 2011,Pittsburgh Penguins
+Michael Bunting,https://www.spotrac.com/nhl/player/_/id/18045,4500000,5.11,4500000,-,2023,3,2,2026,13500000,UFA,29-10d,Sep 17 1995,4 Years,CA,Sault Ste. Marie,Round 4 (#117 overall) 2014,Pittsburgh Penguins
+Ryan Graves,https://www.spotrac.com/nhl/player/_/id/17918,4500000,5.11,3500000,2000000,2023,6,5,2029,27000000,UFA,29-129d,May 21 1995,4 Years,CA,Prince Edward,Round 4 (#110 overall) 2013,Pittsburgh Penguins
+Marcus Pettersson,https://www.spotrac.com/nhl/player/_/id/17904,4025175,4.57,4025175,-,2020,5,1,2025,20125875,UFA,28-141d,May 08 1996,5 Years,SE,Skelleftea,Round 2 (#38 overall) 2014,Pittsburgh Penguins
+Kevin Hayes,https://www.spotrac.com/nhl/player/_/id/15821,7142857,8.12,4000000,1250000,2019,7,2,2026,50000000,UFA,32-142d,May 08 1992,8 Years,US,Boston College,Round 1 (#24 overall) 2010,Pittsburgh Penguins
+Matthew Grzelcyk,https://www.spotrac.com/nhl/player/_/id/18894,2750000,3.13,2750000,-,2024,1,1,2025,2750000,UFA,30-265d,Jan 05 1994,7 Years,US,Boston,Round 3 (#85 overall) 2012,Pittsburgh Penguins
+Cody Glass,https://www.spotrac.com/nhl/player/_/id/23685,2500000,2.84,2500000,-,2023,2,1,2025,5000000,RFA,25-178d,Apr 01 1999,3 Years,CA,Portland,Round 1 (#6 overall) 2017,Pittsburgh Penguins
+Alex Nedeljkovic,https://www.spotrac.com/nhl/player/_/id/16543,2500000,2.84,2500000,-,2024,2,2,2026,5000000,UFA,28-263d,Jan 07 1996,4 Years,US,Plymouth,Round 2 (#37 overall) 2014,Pittsburgh Penguins
+Lars Eller,https://www.spotrac.com/nhl/player/_/id/7155,2450000,2.78,2450000,-,2023,2,1,2025,4900000,UFA,35-144d,May 07 1989,13 Years,DK,Frolunda,Round 1 (#13 overall) 2007,Pittsburgh Penguins
+Noel Acciari,https://www.spotrac.com/nhl/player/_/id/17574,2000000,2.27,2000000,-,2023,3,2,2026,6000000,UFA,33-181d,Mar 31 1991,7 Years,US,Providence,Undrafted BOS 2015,Pittsburgh Penguins
+Blake Lizotte,https://www.spotrac.com/nhl/player/_/id/28975,1850000,2.10,1850000,-,2024,2,2,2026,3700000,UFA,26-287d,Dec 13 1997,4 Years,US,St. Cloud State,Undrafted LAK 2019,Pittsburgh Penguins
+Anthony Beauvillier,https://www.spotrac.com/nhl/player/_/id/18291,1250000,1.42,1250000,-,2024,1,1,2025,1250000,UFA,27-110d,Jun 08 1997,6 Years,CA,Shawinigan,Round 1 (#28 overall) 2015,Pittsburgh Penguins
+Rutger McGroarty,https://www.spotrac.com/nhl/player/_/id/78324,950000,1.08,855000,95000,2024,3,3,2027,4350000,RFA,20-178d,Mar 30 2004,,US,,Round 1 (#14 overall) 2022,Pittsburgh Penguins
+Drew O'Connor,https://www.spotrac.com/nhl/player/_/id/47365,925000,1.05,925000,-,2023,2,1,2025,1850000,UFA,26-109d,Jun 09 1998,2 Years,US,,Undrafted PIT 2020,Pittsburgh Penguins
+Matt Nieto,https://www.spotrac.com/nhl/player/_/id/12182,900000,1.02,900000,-,2023,2,1,2025,1800000,UFA,31-326d,Nov 05 1992,9 Years,US,Boston,Round 2 (#47 overall) 2011,Pittsburgh Penguins
+Sebastian Aho,https://www.spotrac.com/nhl/player/_/id/24067,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,28-222d,Feb 17 1996,3 Years,SE,Skelleftea,Round 5 (#139 overall) 2017,Pittsburgh Penguins
+Valtteri Puustinen,https://www.spotrac.com/nhl/player/_/id/75738,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,25-114d,Jun 04 1999,,FI,,Round 7 (#203 overall) 2019,Pittsburgh Penguins
+Ryan Shea,https://www.spotrac.com/nhl/player/_/id/49805,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,27-227d,Feb 11 1997,,US,,Round 4 (#121 overall) 2015,Pittsburgh Penguins
+Logan Couture,https://www.spotrac.com/nhl/player/_/id/6376,8000000,9.09,7000000,-,2019,8,3,2027,64000000,UFA,35-184d,Mar 28 1989,13 Years,CA,Ottawa,Round 1 (#9 overall) 2007,San Jose Sharks
+Marc-Edouard Vlasic,https://www.spotrac.com/nhl/player/_/id/2067,7000000,7.95,4500000,2500000,2018,8,2,2026,56000000,UFA,37-183d,Mar 30 1987,16 Years,CA,Quebec,Round 2 (#35 overall) 2005,San Jose Sharks
+Tyler Toffoli,https://www.spotrac.com/nhl/player/_/id/7684,6000000,6.82,5000000,1000000,2024,4,4,2028,24000000,UFA,32-156d,Apr 24 1992,10 Years,CA,Ottawa,Round 2 (#47 overall) 2010,San Jose Sharks
+Mikael Granlund,https://www.spotrac.com/nhl/player/_/id/10646,5000000,5.68,5000000,-,2021,4,1,2025,20000000,UFA,32-214d,Feb 26 1992,10 Years,FI,HIFK,Round 1 (#9 overall) 2010,San Jose Sharks
+Alexander Wennberg,https://www.spotrac.com/nhl/player/_/id/15222,5000000,5.68,4000000,1000000,2024,2,2,2026,10000000,UFA,29-5d,Sep 22 1994,8 Years,SE,Djurgarden,Round 1 (#14 overall) 2013,San Jose Sharks
+Barclay Goodrow,https://www.spotrac.com/nhl/player/_/id/15896,3641666,4.14,5000000,-,2021,6,3,2027,21850000,UFA,31-213d,Feb 26 1993,8 Years,CA,Brampton,Undrafted SJS 2014,San Jose Sharks
+Jake Walman,https://www.spotrac.com/nhl/player/_/id/21675,3400000,3.86,3400000,-,2023,3,2,2026,10200000,UFA,28-219d,Feb 20 1996,4 Years,CA,Providence,Round 3 (#82 overall) 2014,San Jose Sharks
+Vitek Vanecek,https://www.spotrac.com/nhl/player/_/id/15585,3400000,3.86,2900000,-,2022,3,1,2025,10200000,UFA,28-261d,Jan 09 1996,2 Years,,,Round 2 (#39 overall) 2014,San Jose Sharks
+Cody Ceci,https://www.spotrac.com/nhl/player/_/id/10762,3250000,3.69,3500000,-,2021,4,1,2025,13000000,UFA,30-280d,Dec 21 1993,10 Years,CA,Ottawa,Round 1 (#15 overall) 2012,San Jose Sharks
+Mario Ferraro,https://www.spotrac.com/nhl/player/_/id/23768,3250000,3.69,3250000,-,2022,4,2,2026,13000000,UFA,26-9d,Sep 17 1998,3 Years,CA,Des Moines (USHL),Round 2 (#49 overall) 2017,San Jose Sharks
+Luke Kunin,https://www.spotrac.com/nhl/player/_/id/20297,2750000,3.13,2750000,-,2024,1,1,2025,2750000,UFA,26-296d,Dec 04 1997,4 Years,US,Wisconsin,Round 1 (#15 overall) 2016,San Jose Sharks
+Jan Rutta,https://www.spotrac.com/nhl/player/_/id/23001,2750000,3.13,2500000,-,2022,3,1,2025,8250000,UFA,34-61d,Jul 29 1990,5 Years,CZ,Chomutov,Undrafted CHI 2017,San Jose Sharks
+MacKenzie Blackwood,https://www.spotrac.com/nhl/player/_/id/18560,2350000,2.67,2500000,-,2023,2,1,2025,4700000,UFA,27-291d,Dec 09 1996,4 Years,CA,Barrie,Round 2 (#42 overall) 2015,San Jose Sharks
+Klim Kostin,https://www.spotrac.com/nhl/player/_/id/23710,2000000,2.27,2000000,-,2023,2,1,2025,4000000,RFA,25-144d,May 05 1999,4 Years,RU,Dynamo Moscow,Round 1 (#31 overall) 2017,San Jose Sharks
+Nico Sturm,https://www.spotrac.com/nhl/player/_/id/28970,2000000,2.27,2000000,-,2022,3,1,2025,6000000,UFA,29-147d,May 03 1995,4 Years,DE,Clarkson,Undrafted MIN 2019,San Jose Sharks
+Carl Grundstrom,https://www.spotrac.com/nhl/player/_/id/20342,1800000,2.05,1750000,-,2024,2,2,2026,3600000,UFA,26-299d,Dec 01 1997,4 Years,SE,MODO,Round 2 (#57 overall) 2016,San Jose Sharks
+Fabian Zetterlund,https://www.spotrac.com/nhl/player/_/id/23785,1450000,1.65,1500000,-,2023,2,1,2025,2900000,RFA,25-32d,Aug 25 1999,1 Years,SE,Farjestad,Round 3 (#63 overall) 2017,San Jose Sharks
+Ty Dellandrea,https://www.spotrac.com/nhl/player/_/id/27052,1300000,1.48,1300000,-,2024,2,2,2026,2600000,RFA,24-66d,Jul 21 2000,3 Years,CA,Flint,Round 1 (#13 overall) 2018,San Jose Sharks
+Matthew Benning,https://www.spotrac.com/nhl/player/_/id/21007,1250000,1.42,1250000,-,2022,4,2,2026,5000000,UFA,30-125d,May 25 1994,6 Years,US,Northeastern,Round 6 (#175 overall) 2012,San Jose Sharks
+Henry Thrun,https://www.spotrac.com/nhl/player/_/id/31725,1000000,1.14,975000,-,2024,2,2,2026,2000000,RFA,23-197d,Mar 12 2001,,US,USA U-18,Round 4 (#101 overall) 2019,San Jose Sharks
+Macklin Celebrini,https://www.spotrac.com/nhl/player/_/id/94103,975000,1.11,877500,97500,2024,3,3,2027,13425000,RFA,18-103d,Jun 13 2006,,CA,Boston,Round 1 (#1 overall) 2024,San Jose Sharks
+Will Smith,https://www.spotrac.com/nhl/player/_/id/84492,950000,1.08,855000,95000,2024,3,3,2027,12450000,RFA,19-191d,Mar 17 2005,,US,,Round 1 (#4 overall) 2023,San Jose Sharks
+Yaroslav Askarov,https://www.spotrac.com/nhl/player/_/id/62868,925000,1.05,832500,92500,2025,2,3,2027,4000000,RFA,22-101d,Jun 16 2002,,RU,,Round 1 (#11 overall) 2020,San Jose Sharks
+William Eklund,https://www.spotrac.com/nhl/player/_/id/73761,863333,0.98,832500,-,2023,3,2,2026,5325000,RFA,21-348d,Oct 12 2002,,SE,Djurgarden,Round 1 (#7 overall) 2021,San Jose Sharks
+Vince Dunn,https://www.spotrac.com/nhl/player/_/id/18251,7350000,8.35,8000000,-,2023,4,3,2027,29400000,UFA,27-332d,Oct 29 1996,5 Years,CA,Niagara,Round 2 (#56 overall) 2015,Seattle Kraken
+Brandon Montour,https://www.spotrac.com/nhl/player/_/id/17551,7142857,8.12,3000000,5000000,2024,7,7,2031,50000000,UFA,30-169d,Apr 11 1994,6 Years,CA,Waterloo,Round 2 (#55 overall) 2014,Seattle Kraken
+Chandler Stephenson,https://www.spotrac.com/nhl/player/_/id/15254,6250000,7.10,2250000,4000000,2024,7,7,2031,43750000,UFA,30-158d,Apr 22 1994,7 Years,CA,Regina,Round 3 (#77 overall) 2012,Seattle Kraken
+Phillip Grubauer,https://www.spotrac.com/nhl/player/_/id/7021,5900000,6.70,6800000,-,2021,6,3,2027,35400000,UFA,32-307d,Nov 25 1991,10 Years,DE,Belleville,Round 4 (#112 overall) 2010,Seattle Kraken
+Andre Burakovsky,https://www.spotrac.com/nhl/player/_/id/13527,5500000,6.25,6250000,-,2022,5,3,2027,27500000,UFA,29-230d,Feb 09 1995,9 Years,AT,Erie,Round 1 (#23 overall) 2013,Seattle Kraken
+Jaden Schwartz,https://www.spotrac.com/nhl/player/_/id/8965,5500000,6.25,5500000,-,2021,5,2,2026,27500000,UFA,32-94d,Jun 25 1992,11 Years,CA,Colorado,Round 1 (#14 overall) 2010,Seattle Kraken
+Oliver Bjorkstrand,https://www.spotrac.com/nhl/player/_/id/13781,5400000,6.14,5900000,-,2021,5,2,2026,27000000,UFA,29-170d,Apr 10 1995,7 Years,DK,Herning,Round 3 (#89 overall) 2013,Seattle Kraken
+Yanni Gourde,https://www.spotrac.com/nhl/player/_/id/17591,5166666,5.87,5100000,-,2019,6,1,2025,31000000,UFA,32-287d,Dec 15 1991,7 Years,CA,Victoriaville,Undrafted TBL 2014,Seattle Kraken
+Jared McCann,https://www.spotrac.com/nhl/player/_/id/15611,5000000,5.68,5500000,-,2022,5,3,2027,25000000,UFA,28-118d,May 31 1996,7 Years,CA,Soo,Round 1 (#24 overall) 2014,Seattle Kraken
+Jordan Eberle,https://www.spotrac.com/nhl/player/_/id/7142,4750000,5.40,4750000,-,2024,2,2,2026,9500000,UFA,34-137d,May 14 1990,12 Years,CA,Regina,Round 1 (#22 overall) 2008,Seattle Kraken
+Jamie Oleksiak,https://www.spotrac.com/nhl/player/_/id/8423,4600000,5.23,5500000,-,2021,5,2,2026,23000000,UFA,31-280d,Dec 21 1992,10 Years,CA,Northeastern,Round 1 (#14 overall) 2011,Seattle Kraken
+Adam Larsson,https://www.spotrac.com/nhl/player/_/id/8296,4000000,4.55,4500000,-,2025,4,5,2029,21000000,UFA,31-320d,Nov 11 1992,11 Years,SE,Skelleftea,Round 1 (#4 overall) 2011,Seattle Kraken
+Brandon Tanev,https://www.spotrac.com/nhl/player/_/id/18889,3500000,3.98,2500000,1000000,2019,6,1,2025,21000000,UFA,32-271d,Dec 31 1991,7 Years,CA,Providence,Undrafted WPG 2016,Seattle Kraken
+Eeli Tolvanen,https://www.spotrac.com/nhl/player/_/id/25061,3475000,3.95,3475000,-,2024,2,2,2026,6950000,UFA,25-157d,Apr 22 1999,4 Years,FI,Sioux City Musketeers,Round 1 (#30 overall) 2017,Seattle Kraken
+William Borgen,https://www.spotrac.com/nhl/player/_/id/25041,2700000,3.07,2900000,-,2023,2,1,2025,5400000,UFA,27-281d,Dec 19 1996,3 Years,US,St. Cloud State,Round 4 (#92 overall) 2015,Seattle Kraken
+Joey Daccord,https://www.spotrac.com/nhl/player/_/id/28974,1200000,1.36,1200000,-,2023,2,1,2025,2400000,UFA,28-48d,Aug 09 1996,,US,Arizona State,Undrafted OTT 2019,Seattle Kraken
+Ryker Evans,https://www.spotrac.com/nhl/player/_/id/73791,897500,1.02,832500,92500,2022,3,1,2025,2775000,RFA,22-286d,Dec 13 2001,,CA,Regina,Round 2 (#35 overall) 2021,Seattle Kraken
+Shane Wright,https://www.spotrac.com/nhl/player/_/id/78314,886666,1.01,855000,95000,2024,3,3,2027,12037500,RFA,20-263d,Jan 05 2004,,CA,,Round 1 (#4 overall) 2022,Seattle Kraken
+Tye Kartye,https://www.spotrac.com/nhl/player/_/id/76119,859167,0.98,775000,92500,2022,3,1,2025,2775000,RFA,23-148d,Apr 30 2001,,CA,,Undrafted SEA 2022,Seattle Kraken
+Joshua Mahura,https://www.spotrac.com/nhl/player/_/id/20371,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,26-144d,May 05 1998,4 Years,CA,Red Deer,Round 3 (#85 overall) 2016,Seattle Kraken
+Jordan Kyrou,https://www.spotrac.com/nhl/player/_/id/20320,8125000,9.23,10900000,-,2023,8,7,2031,65000000,UFA,26-144d,May 05 1998,4 Years,CA,Sarnia,Round 2 (#35 overall) 2016,St. Louis Blues
+Robert Thomas,https://www.spotrac.com/nhl/player/_/id/23699,8125000,9.23,10900000,-,2023,8,7,2031,65000000,UFA,25-86d,Jul 02 1999,4 Years,CA,London,Round 1 (#20 overall) 2017,St. Louis Blues
+Torey Krug,https://www.spotrac.com/nhl/player/_/id/9267,6500000,7.39,8500000,-,2020,7,3,2027,45500000,UFA,33-169d,Apr 12 1991,11 Years,US,Michigan State,Undrafted BOS 2012,St. Louis Blues
+Colton Parayko,https://www.spotrac.com/nhl/player/_/id/16476,6500000,7.39,8000000,-,2022,8,6,2030,52000000,UFA,31-138d,May 12 1993,7 Years,CA,Alaska Fairbanks,Round 3 (#86 overall) 2012,St. Louis Blues
+Brayden Schenn,https://www.spotrac.com/nhl/player/_/id/8050,6500000,7.39,8000000,-,2020,8,4,2028,52000000,UFA,33-37d,Aug 22 1991,13 Years,CA,Brandon,Round 1 (#5 overall) 2009,St. Louis Blues
+Justin Faulk,https://www.spotrac.com/nhl/player/_/id/7667,6500000,7.39,4750000,-,2020,7,3,2027,45500000,UFA,32-191d,Mar 20 1992,11 Years,US,Minnesota-Duluth,Round 2 (#37 overall) 2010,St. Louis Blues
+Jordan Binnington,https://www.spotrac.com/nhl/player/_/id/10712,6000000,6.82,7500000,-,2021,6,3,2027,36000000,UFA,31-78d,Jul 11 1993,5 Years,CA,Owen Sound,Round 3 (#88 overall) 2011,St. Louis Blues
+Pavel Buchnevich,https://www.spotrac.com/nhl/player/_/id/19801,5800000,6.59,6300000,-,2025,6,7,2031,48000000,UFA,29-163d,Apr 17 1995,6 Years,RU,Cherepovets Severstal,Round 3 (#75 overall) 2013,St. Louis Blues
+Philip Broberg,https://www.spotrac.com/nhl/player/_/id/31632,4580917,5.21,4580917,-,2024,2,2,2026,9161834,RFA,23-92d,Jun 25 2001,2 Years,SE,AIK,Round 1 (#8 overall) 2019,St. Louis Blues
+Brandon Saad,https://www.spotrac.com/nhl/player/_/id/8425,4500000,5.11,4375000,-,2021,5,2,2026,22500000,UFA,31-335d,Oct 27 1992,11 Years,US,Saginaw,Round 2 (#43 overall) 2011,St. Louis Blues
+Nick Leddy,https://www.spotrac.com/nhl/player/_/id/8434,4000000,4.55,3500000,-,2022,4,2,2026,16000000,UFA,33-192d,Mar 20 1991,12 Years,US,Minnesota,Round 1 (#16 overall) 2009,St. Louis Blues
+Radek Faksa,https://www.spotrac.com/nhl/player/_/id/10760,3250000,3.69,2750000,-,2020,5,1,2025,16250000,UFA,30-261d,Jan 09 1994,8 Years,CZ,Kitchener,Round 1 (#13 overall) 2012,St. Louis Blues
+Mathieu Joseph,https://www.spotrac.com/nhl/player/_/id/21321,2950000,3.35,3300000,-,2022,4,2,2026,11800000,UFA,27-229d,Feb 09 1997,4 Years,CA,Saint John,Round 4 (#120 overall) 2015,St. Louis Blues
+Dylan Holloway,https://www.spotrac.com/nhl/player/_/id/62871,2290457,2.60,2290457,-,2024,2,2,2026,4580914,RFA,22-2d,Sep 23 2001,1 Years,CA,,Round 1 (#14 overall) 2020,St. Louis Blues
+Alexandre Texier,https://www.spotrac.com/nhl/player/_/id/23764,2100000,2.39,2100000,-,2024,2,2,2026,4200000,UFA,25-13d,Sep 13 1999,4 Years,FR,Grenoble,Round 2 (#45 overall) 2017,St. Louis Blues
+Oskar Sundqvist,https://www.spotrac.com/nhl/player/_/id/15305,1500000,1.70,1500000,-,2024,2,2,2026,3000000,UFA,30-188d,Mar 23 1994,7 Years,SE,Skelleftea,Round 3 (#81 overall) 2012,St. Louis Blues
+Alexei Toropchenko,https://www.spotrac.com/nhl/player/_/id/27077,1250000,1.42,1250000,-,2023,2,1,2025,2500000,RFA,25-93d,Jun 25 1999,1 Years,RU,Guelph,Round 4 (#113 overall) 2017,St. Louis Blues
+Scott Perunovich,https://www.spotrac.com/nhl/player/_/id/27114,1150000,1.31,1150000,-,2024,1,1,2025,1150000,UFA,26-39d,Aug 18 1998,,US,Minnesota-Duluth,Round 2 (#45 overall) 2018,St. Louis Blues
+Kasperi Kapanen,https://www.spotrac.com/nhl/player/_/id/15573,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,28-65d,Jul 23 1996,7 Years,FI,KalPa,Round 1 (#22 overall) 2014,St. Louis Blues
+Pierre-Olivier Joseph,https://www.spotrac.com/nhl/player/_/id/23702,950000,1.08,950000,-,2024,1,1,2025,950000,RFA,25-87d,Jul 01 1999,2 Years,CA,Charlottetown,Round 1 (#23 overall) 2017,St. Louis Blues
+Jake Neighbours,https://www.spotrac.com/nhl/player/_/id/62883,835833,0.95,832500,-,2022,3,1,2025,2775000,RFA,22-180d,Mar 29 2002,,CA,,Round 1 (#26 overall) 2020,St. Louis Blues
+Joel Hofer,https://www.spotrac.com/nhl/player/_/id/27177,775000,0.88,775000,-,2023,2,1,2025,1550000,RFA,24-57d,Jul 30 2000,,CA,Swift Current,Round 4 (#107 overall) 2018,St. Louis Blues
+Ryan Suter,https://www.spotrac.com/nhl/player/_/id/1858,775000,0.88,775000,-,2024,1,1,2025,775000,UFA,39-252d,Jan 20 1985,18 Years,US,Wisconsin,Round 1 (#7 overall) 2003,St. Louis Blues
+Nathan Walker,https://www.spotrac.com/nhl/player/_/id/15610,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,30-232d,Feb 07 1994,5 Years,,,,St. Louis Blues
+Andrei Vasilevskiy,https://www.spotrac.com/nhl/player/_/id/10766,9500000,10.80,5500000,4500000,2020,8,4,2028,76000000,UFA,30-64d,Jul 25 1994,8 Years,RU,UFA,Round 1 (#19 overall) 2012,Tampa Bay Lightning
+Nikita Kucherov,https://www.spotrac.com/nhl/player/_/id/11249,9500000,10.80,5000000,4000000,2019,8,3,2027,76000000,UFA,31-102d,Jun 17 1993,8 Years,RU,CSKA,Round 2 (#58 overall) 2011,Tampa Bay Lightning
+Brayden Point,https://www.spotrac.com/nhl/player/_/id/16547,9500000,10.80,5000000,7000000,2022,8,6,2030,76000000,UFA,28-197d,Mar 13 1996,6 Years,CA,Moose Jaw,Round 3 (#79 overall) 2014,Tampa Bay Lightning
+Jake Guentzel,https://www.spotrac.com/nhl/player/_/id/19879,9000000,10.23,1000000,12263157,2024,7,7,2031,63000000,UFA,29-356d,Oct 06 1994,6 Years,US,Nebraska-Omaha,Round 3 (#77 overall) 2013,Tampa Bay Lightning
+Victor Hedman,https://www.spotrac.com/nhl/player/_/id/6373,7875000,8.95,7000000,-,2025,4,5,2029,32000000,UFA,33-284d,Dec 18 1990,13 Years,SE,MODO,Round 1 (#2 overall) 2009,Tampa Bay Lightning
+Ryan McDonagh,https://www.spotrac.com/nhl/player/_/id/7177,6750000,7.67,6930000,-,2019,7,2,2026,47250000,UFA,35-107d,Jun 13 1989,12 Years,US,Wisconsin,Round 1 (#12 overall) 2007,Tampa Bay Lightning
+Brandon Hagel,https://www.spotrac.com/nhl/player/_/id/20446,6500000,7.39,1820000,7180000,2024,8,8,2032,52000000,UFA,26-30d,Aug 27 1998,3 Years,CA,Red Deer,Round 6 (#159 overall) 2016,Tampa Bay Lightning
+Anthony Cirelli,https://www.spotrac.com/nhl/player/_/id/19843,6250000,7.10,1625000,6500000,2023,8,7,2031,50000000,UFA,27-73d,Jul 15 1997,5 Years,CA,Mississauga,Round 3 (#72 overall) 2015,Tampa Bay Lightning
+Erik Cernak,https://www.spotrac.com/nhl/player/_/id/17996,5200000,5.91,2260000,4500000,2023,8,7,2031,41600000,UFA,27-121d,May 28 1997,4 Years,SK,Kosice,Round 2 (#43 overall) 2015,Tampa Bay Lightning
+Janis Moser,https://www.spotrac.com/nhl/player/_/id/73816,3375000,3.84,2700000,-,2024,2,2,2026,6750000,RFA,24-111d,Jun 06 2000,2 Years,CH,Biel,Round 2 (#60 overall) 2021,Tampa Bay Lightning
+Nicholas Paul,https://www.spotrac.com/nhl/player/_/id/16130,3150000,3.58,3250000,-,2022,7,5,2029,22050000,UFA,29-191d,Mar 20 1995,7 Years,CA,,Round 4 (#101 overall) 2013,Tampa Bay Lightning
+Conor Sheary,https://www.spotrac.com/nhl/player/_/id/17951,2000000,2.27,2000000,-,2023,3,2,2026,6000000,UFA,32-111d,Jun 08 1992,7 Years,US,Massachusetts,Undrafted PIT 2015,Tampa Bay Lightning
+Nick Perbix,https://www.spotrac.com/nhl/player/_/id/76312,1125000,1.28,1032500,92500,2023,2,1,2025,2250000,UFA,26-103d,Jun 15 1998,,US,,Undrafted TBL 2022,Tampa Bay Lightning
+Darren Raddysh,https://www.spotrac.com/nhl/player/_/id/25969,975000,1.11,1114000,-,2024,2,2,2026,1950000,UFA,28-211d,Feb 28 1996,1 Years,CA,Erie,Undrafted CHI 2018,Tampa Bay Lightning
+Cameron Atkinson,https://www.spotrac.com/nhl/player/_/id/8819,900000,1.02,900000,-,2024,1,1,2025,900000,UFA,35-116d,Jun 04 1989,11 Years,US,Boston College,Round 6 (#157 overall) 2008,Tampa Bay Lightning
+Emil Martinsen-Lilleberg,https://www.spotrac.com/nhl/player/_/id/73863,870000,0.99,775000,95000,2025,2,3,2027,1600000,RFA,23-235d,Feb 02 2001,,NO,Oskarshamn,Round 4 (#107 overall) 2021,Tampa Bay Lightning
+Zemgus Girgensons,https://www.spotrac.com/nhl/player/_/id/10761,850000,0.97,775000,225000,2024,3,3,2027,2550000,UFA,30-265d,Jan 05 1994,9 Years,LV,Dubuque,Round 1 (#14 overall) 2012,Tampa Bay Lightning
+Mitchell Chaffee,https://www.spotrac.com/nhl/player/_/id/47426,800000,0.91,800000,-,2024,2,2,2026,1600000,UFA,26-243d,Jan 26 1998,,US,,Undrafted MIN 2020,Tampa Bay Lightning
+Michael Eyssimont,https://www.spotrac.com/nhl/player/_/id/20429,800000,0.91,800000,-,2023,2,1,2025,1600000,UFA,28-17d,Sep 09 1996,1 Years,US,St. Cloud State,Round 5 (#142 overall) 2016,Tampa Bay Lightning
+Luke Glendening,https://www.spotrac.com/nhl/player/_/id/13428,800000,0.91,800000,-,2023,2,1,2025,1600000,UFA,35-153d,Apr 28 1989,9 Years,US,Michigan,Undrafted MTL 2013,Tampa Bay Lightning
+Jonas Johansson,https://www.spotrac.com/nhl/player/_/id/22669,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,29-8d,Sep 19 1995,2 Years,SE,Brynas,Round 3 (#61 overall) 2014,Tampa Bay Lightning
+Jesse Ylönen,https://www.spotrac.com/nhl/player/_/id/47431,775000,0.88,775000,-,2024,1,1,2025,775000,RFA,24-358d,Oct 03 1999,,US,,Round 2 (#35 overall) 2018,Tampa Bay Lightning
+William Nylander,https://www.spotrac.com/nhl/player/_/id/15746,11500000,13.07,3500000,10000000,2024,8,8,2032,92000000,UFA,28-148d,May 01 1996,7 Years,CA,Sodertalje SK,Round 1 (#8 overall) 2014,Toronto Maple Leafs
+John Tavares,https://www.spotrac.com/nhl/player/_/id/6407,11000000,12.50,910000,7040000,2018,7,1,2025,77000000,UFA,34-9d,Sep 19 1990,13 Years,CA,Oshawa,Round 1 (#1 overall) 2009,Toronto Maple Leafs
+Mitchell Marner,https://www.spotrac.com/nhl/player/_/id/18058,10903000,12.39,750000,7250000,2019,6,1,2025,65418000,UFA,27-144d,May 05 1997,6 Years,CA,London,Round 1 (#4 overall) 2015,Toronto Maple Leafs
+Morgan Rielly,https://www.spotrac.com/nhl/player/_/id/10752,7500000,8.52,10000000,-,2022,8,6,2030,60000000,UFA,30-202d,Mar 09 1994,9 Years,CA,Moose Jaw,Round 1 (#5 overall) 2012,Toronto Maple Leafs
+Chris Tanev,https://www.spotrac.com/nhl/player/_/id/6834,4500000,5.11,1000000,5000000,2024,6,6,2030,27000000,UFA,34-282d,Dec 20 1989,13 Years,CA,Rochester Institute of Technology,Undrafted VAN 2010,Toronto Maple Leafs
+Max Domi,https://www.spotrac.com/nhl/player/_/id/13414,3750000,4.26,1500000,3500000,2024,4,4,2028,15000000,UFA,29-209d,Mar 02 1995,7 Years,CA,London,Round 1 (#12 overall) 2013,Toronto Maple Leafs
+Oliver Ekman-Larsson,https://www.spotrac.com/nhl/player/_/id/8775,3500000,3.98,1000000,3500000,2024,4,4,2028,14000000,UFA,33-73d,Jul 17 1991,10 Years,SE,Leksand,Round 1 (#6 overall) 2009,Toronto Maple Leafs
+Timothy Liljegren,https://www.spotrac.com/nhl/player/_/id/23696,3000000,3.41,1000000,2400000,2024,2,2,2026,6000000,UFA,25-149d,Apr 30 1999,3 Years,SE,Timra,Round 1 (#17 overall) 2017,Toronto Maple Leafs
+Anthony Stolarz,https://www.spotrac.com/nhl/player/_/id/10792,2500000,2.84,1750000,1000000,2024,2,2,2026,5000000,UFA,30-250d,Jan 20 1994,5 Years,US,Nebraska-Omaha,Round 2 (#45 overall) 2012,Toronto Maple Leafs
+David Kampf,https://www.spotrac.com/nhl/player/_/id/22457,2400000,2.73,1075000,1325000,2023,4,3,2027,9600000,UFA,29-258d,Jan 12 1995,5 Years,CZ,Chomutov,Undrafted CHI 2017,Toronto Maple Leafs
+Calle Jarnkrok,https://www.spotrac.com/nhl/player/_/id/10717,2100000,2.39,775000,1325000,2022,4,2,2026,8400000,UFA,32-3d,Sep 25 1991,9 Years,SE,Brynas,Round 2 (#51 overall) 2010,Toronto Maple Leafs
+Jake McCabe,https://www.spotrac.com/nhl/player/_/id/10791,4000000,4.55,5000000,-,2021,4,1,2025,16000000,UFA,30-350d,Oct 12 1993,9 Years,US,Wisconsin,Round 2 (#44 overall) 2012,Toronto Maple Leafs
+Jani Hakanpaa,https://www.spotrac.com/nhl/player/_/id/10648,1470000,1.67,775000,695000,2024,1,1,2025,1470000,UFA,32-180d,Mar 31 1992,4 Years,FI,,Round 4 (#104 overall) 2010,Toronto Maple Leafs
+Simon Benoit,https://www.spotrac.com/nhl/player/_/id/28740,1350000,1.53,1350000,-,2024,3,3,2027,4050000,UFA,26-7d,Sep 19 1998,2 Years,CA,,Undrafted ANA 2019,Toronto Maple Leafs
+Bobby McMann,https://www.spotrac.com/nhl/player/_/id/76982,1350000,1.53,1350000,-,2024,2,2,2026,2700000,UFA,28-103d,Jun 15 1996,,CA,,Undrafted TOR 2022,Toronto Maple Leafs
+Ryan Reaves,https://www.spotrac.com/nhl/player/_/id/6987,1350000,1.53,1350000,-,2023,3,2,2026,4050000,UFA,37-252d,Jan 20 1987,12 Years,CA,Brandon,Round 5 (#156 overall) 2005,Toronto Maple Leafs
+Connor Dewar,https://www.spotrac.com/nhl/player/_/id/27162,1180000,1.34,780000,400000,2024,1,1,2025,1180000,RFA,25-62d,Jul 26 1999,1 Years,CA,Everett,Round 3 (#92 overall) 2018,Toronto Maple Leafs
+Conor Timmins,https://www.spotrac.com/nhl/player/_/id/23751,1100000,1.25,1100000,-,2023,2,1,2025,2200000,RFA,26-8d,Sep 18 1998,3 Years,CA,Sault Ste. Marie,Round 2 (#32 overall) 2017,Toronto Maple Leafs
+Matthew Knies,https://www.spotrac.com/nhl/player/_/id/73813,925000,1.05,832500,92500,2022,3,1,2025,2775000,RFA,21-343d,Oct 17 2002,,US,Tri-City,Round 2 (#57 overall) 2021,Toronto Maple Leafs
+Nicholas Robertson,https://www.spotrac.com/nhl/player/_/id/31677,875000,0.99,875000,-,2024,1,1,2025,875000,RFA,23-14d,Sep 11 2001,,US,Peterborough,Round 2 (#53 overall) 2019,Toronto Maple Leafs
+Pontus Holmberg,https://www.spotrac.com/nhl/player/_/id/27227,800000,0.91,825000,-,2023,2,1,2025,1600000,RFA,25-201d,Mar 09 1999,,SE,Vaxjo,Round 6 (#156 overall) 2018,Toronto Maple Leafs
+Joseph Woll,https://www.spotrac.com/nhl/player/_/id/20347,766666,0.87,775000,-,2025,3,4,2028,10980000,UFA,26-76d,Jul 12 1998,,US,USA U-18,Round 3 (#62 overall) 2016,Toronto Maple Leafs
+Mikhail Sergachev,https://www.spotrac.com/nhl/player/_/id/20291,8500000,9.66,5050000,6000000,2023,8,7,2031,68000000,UFA,26-93d,Jun 25 1998,6 Years,RU,Windsor,Round 1 (#9 overall) 2016,Utah Hockey Club
+Shea Weber,https://www.spotrac.com/nhl/player/_/id/1859,7857143,8.93,1000000,-,2012,14,2,2026,110000000,UFA,39-47d,Aug 13 1985,15 Years,CA,Kelowna,Round 2 (#49 overall) 2003,Utah Hockey Club
+Clayton Keller,https://www.spotrac.com/nhl/player/_/id/20288,7150000,8.13,7000000,-,2020,8,4,2028,57200000,UFA,26-59d,Jul 29 1998,7 Years,US,USA U-18,Round 1 (#7 overall) 2016,Utah Hockey Club
+Sean Durzi,https://www.spotrac.com/nhl/player/_/id/27121,6000000,6.82,7100000,-,2024,4,4,2028,24000000,UFA,25-340d,Oct 21 1998,2 Years,CA,Owen Sound,Round 2 (#52 overall) 2018,Utah Hockey Club
+Nick Schmaltz,https://www.spotrac.com/nhl/player/_/id/20148,5850000,6.65,6950000,1500000,2019,7,2,2026,40950000,UFA,28-216d,Feb 23 1996,7 Years,US,North Dakota,Round 1 (#20 overall) 2014,Utah Hockey Club
+John Marino,https://www.spotrac.com/nhl/player/_/id/32462,4400000,5.00,6150000,-,2021,6,3,2027,26400000,UFA,27-128d,May 21 1997,3 Years,US,,Round 6 (#154 overall) 2015,Utah Hockey Club
+Lawson Crouse,https://www.spotrac.com/nhl/player/_/id/17995,4300000,4.89,4600000,-,2022,5,3,2027,21500000,UFA,27-95d,Jun 23 1997,7 Years,US,Kingston,Round 1 (#11 overall) 2015,Utah Hockey Club
+Alexander Kerfoot,https://www.spotrac.com/nhl/player/_/id/24408,3500000,3.98,4000000,-,2023,2,1,2025,7000000,UFA,30-47d,Aug 11 1994,6 Years,CA,Harvard,Round 5 (#150 overall) 2012,Utah Hockey Club
+Matias Maccelli,https://www.spotrac.com/nhl/player/_/id/31722,3425000,3.89,3025000,-,2023,3,2,2026,10275000,RFA,23-346d,Oct 14 2000,2 Years,FI,Dubuque,Round 4 (#98 overall) 2019,Utah Hockey Club
+Ian Cole,https://www.spotrac.com/nhl/player/_/id/7191,3100000,3.52,3100000,-,2024,1,1,2025,3100000,UFA,35-219d,Feb 21 1989,12 Years,US,Notre Dame,Round 1 (#18 overall) 2007,Utah Hockey Club
+Karel Vejmelka,https://www.spotrac.com/nhl/player/_/id/72871,2725000,3.10,2775000,-,2022,3,1,2025,8175000,UFA,28-124d,May 25 1996,2 Years,CZ,,Undrafted ARI 2021,Utah Hockey Club
+Barrett Hayton,https://www.spotrac.com/nhl/player/_/id/27041,2650000,3.01,2650000,-,2024,2,2,2026,5300000,RFA,24-108d,Jun 09 2000,4 Years,CA,Sault Ste. Marie,Round 1 (#5 overall) 2018,Utah Hockey Club
+Nick Bjugstad,https://www.spotrac.com/nhl/player/_/id/12204,2100000,2.39,2100000,-,2023,2,1,2025,4200000,UFA,32-72d,Jul 17 1992,11 Years,US,Minnesota,Round 1 (#19 overall) 2010,Utah Hockey Club
+Kevin Stenlund,https://www.spotrac.com/nhl/player/_/id/22618,2000000,2.27,2000000,-,2024,2,2,2026,4000000,UFA,27-6d,Sep 20 1996,4 Years,SE,HV 71,Round 2 (#58 overall) 2015,Utah Hockey Club
+Juuso Valimaki,https://www.spotrac.com/nhl/player/_/id/23695,2000000,2.27,2000000,-,2024,2,2,2026,4000000,UFA,25-355d,Oct 06 1998,4 Years,FI,Tri-City,Round 1 (#16 overall) 2017,Utah Hockey Club
+Connor Ingram,https://www.spotrac.com/nhl/player/_/id/20374,1950000,2.22,1950000,-,2023,3,2,2026,5850000,UFA,27-179d,Mar 31 1997,2 Years,CA,Kamloops,Round 3 (#88 overall) 2016,Utah Hockey Club
+Jack McBain,https://www.spotrac.com/nhl/player/_/id/27132,1599999,1.82,1599999,-,2023,2,1,2025,3199998,RFA,24-263d,Jan 06 2000,2 Years,CA,Boston College,Round 3 (#63 overall) 2018,Utah Hockey Club
+Michael Kesselring,https://www.spotrac.com/nhl/player/_/id/27235,1400000,1.59,1400000,-,2024,2,2,2026,2800000,RFA,24-256d,Jan 13 2000,,US,Des Moines (USHL),Round 6 (#164 overall) 2018,Utah Hockey Club
+Liam O'Brien,https://www.spotrac.com/nhl/player/_/id/16151,1000000,1.14,1000000,-,2024,3,3,2027,3000000,UFA,30-60d,Jul 29 1994,6 Years,CA,,Undrafted WAS 2014,Utah Hockey Club
+Logan Cooley,https://www.spotrac.com/nhl/player/_/id/78313,950000,1.08,855000,95000,2023,3,2,2026,13350000,RFA,20-143d,May 04 2004,,US,,Round 1 (#3 overall) 2022,Utah Hockey Club
+Josh Doan,https://www.spotrac.com/nhl/player/_/id/73793,925000,1.05,832500,92500,2023,3,2,2026,2775000,RFA,22-236d,Feb 01 2002,,US,Chicago (USHL),Round 2 (#37 overall) 2021,Utah Hockey Club
+Dylan Guenther,https://www.spotrac.com/nhl/player/_/id/73763,894167,1.02,832500,-,2022,3,1,2025,5325000,RFA,21-168d,Apr 10 2003,,CA,Edmonton,Round 1 (#9 overall) 2021,Utah Hockey Club
+Michael Carcone,https://www.spotrac.com/nhl/player/_/id/20801,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,28-130d,May 19 1996,2 Years,CA,Drummondville,Undrafted VAN 2016,Utah Hockey Club
+Vladislav Kolyachonok,https://www.spotrac.com/nhl/player/_/id/31676,775000,0.88,775000,-,2024,2,2,2026,1550000,RFA,23-122d,May 26 2001,,BY,Flint,Round 2 (#52 overall) 2019,Utah Hockey Club
+Elias Pettersson,https://www.spotrac.com/nhl/player/_/id/23684,11600000,13.18,2500000,12000000,2024,8,8,2032,92800000,UFA,25-318d,Nov 12 1998,4 Years,SE,Timra,Round 1 (#5 overall) 2017,Vancouver Canucks
+J.T. Miller,https://www.spotrac.com/nhl/player/_/id/12653,8000000,9.09,5000000,4000000,2023,7,6,2030,56000000,UFA,31-197d,Mar 14 1993,10 Years,US,Plymouth,Round 1 (#15 overall) 2011,Vancouver Canucks
+Quinn Hughes,https://www.spotrac.com/nhl/player/_/id/27046,7850000,8.92,9500000,-,2021,6,3,2027,47100000,UFA,24-347d,Oct 14 1999,4 Years,US,Michigan,Round 1 (#7 overall) 2018,Vancouver Canucks
+Filip Hronek,https://www.spotrac.com/nhl/player/_/id/20338,7250000,8.24,5500000,4000000,2024,8,8,2032,58000000,UFA,26-328d,Nov 02 1997,4 Years,CZ,Hr. Kralove,Round 2 (#53 overall) 2016,Vancouver Canucks
+Brock Boeser,https://www.spotrac.com/nhl/player/_/id/21671,6650000,7.56,6650000,-,2022,3,1,2025,19950000,UFA,27-213d,Feb 25 1997,6 Years,US,North Dakota,Round 1 (#23 overall) 2015,Vancouver Canucks
+Jake DeBrusk,https://www.spotrac.com/nhl/player/_/id/18297,5500000,6.25,2500000,4000000,2024,7,7,2031,38500000,UFA,27-344d,Oct 17 1996,6 Years,CA,Swift Current,Round 1 (#14 overall) 2015,Vancouver Canucks
+Thatcher Demko,https://www.spotrac.com/nhl/player/_/id/18938,5000000,5.68,6000000,-,2021,5,2,2026,25000000,UFA,28-293d,Dec 08 1995,5 Years,US,Boston College,Round 2 (#36 overall) 2014,Vancouver Canucks
+Conor Garland,https://www.spotrac.com/nhl/player/_/id/18520,4950000,5.63,6000000,-,2021,5,2,2026,24750000,UFA,28-199d,Mar 11 1996,4 Years,US,Moncton,Round 5 (#123 overall) 2015,Vancouver Canucks
+Carson Soucy,https://www.spotrac.com/nhl/player/_/id/21718,3250000,3.69,3250000,-,2023,3,2,2026,9750000,UFA,30-62d,Jul 27 1994,4 Years,CA,Minnesota-Duluth,Round 5 (#137 overall) 2013,Vancouver Canucks
+Dakota Joshua,https://www.spotrac.com/nhl/player/_/id/32386,3250000,3.69,2500000,2000000,2024,4,4,2028,13000000,UFA,28-134d,May 15 1996,2 Years,US,,Round 5 (#128 overall) 2014,Vancouver Canucks
+Tyler Myers,https://www.spotrac.com/nhl/player/_/id/6348,3000000,3.41,3800000,-,2024,3,3,2027,9000000,UFA,34-239d,Feb 01 1990,13 Years,US,Kelowna,Round 1 (#12 overall) 2008,Vancouver Canucks
+Tucker Poolman,https://www.spotrac.com/nhl/player/_/id/21695,2500000,2.84,3000000,-,2021,4,1,2025,10000000,UFA,31-111d,Jun 08 1993,1 Years,US,North Dakota,Round 5 (#127 overall) 2013,Vancouver Canucks
+Danton Heinen,https://www.spotrac.com/nhl/player/_/id/18919,2250000,2.56,775000,1725000,2024,2,2,2026,4500000,UFA,29-84d,Jul 05 1995,6 Years,CA,Denver,Round 4 (#116 overall) 2014,Vancouver Canucks
+Vincent Desharnais,https://www.spotrac.com/nhl/player/_/id/20470,2000000,2.27,775000,1500000,2024,2,2,2026,4000000,UFA,28-120d,May 29 1996,1 Years,CA,Providence,Round 7 (#183 overall) 2016,Vancouver Canucks
+Theodor Blueger,https://www.spotrac.com/nhl/player/_/id/10799,1800000,2.05,775000,1175000,2024,2,2,2026,3600000,UFA,30-43d,Aug 15 1994,4 Years,LV,Minnesota State,Round 2 (#52 overall) 2012,Vancouver Canucks
+Pius Suter,https://www.spotrac.com/nhl/player/_/id/48857,1600000,1.82,1600000,-,2023,2,1,2025,3200000,UFA,28-125d,May 24 1996,2 Years,CH,,Undrafted CHI 2020,Vancouver Canucks
+Derek Forbort,https://www.spotrac.com/nhl/player/_/id/12209,1500000,1.70,1500000,-,2024,1,1,2025,1500000,UFA,32-207d,Mar 04 1992,8 Years,US,North Dakota,Round 1 (#15 overall) 2010,Vancouver Canucks
+Kiefer Sherwood,https://www.spotrac.com/nhl/player/_/id/25031,1500000,1.70,775000,925000,2024,2,2,2026,3000000,UFA,29-180d,Mar 31 1995,,US,Miami (OH),Undrafted ANA 2018,Vancouver Canucks
+Nils Hoglander,https://www.spotrac.com/nhl/player/_/id/31664,1100000,1.25,1200000,-,2023,2,1,2025,2200000,RFA,23-279d,Dec 20 2000,,SE,Rogle,Round 2 (#40 overall) 2019,Vancouver Canucks
+Daniel Sprong,https://www.spotrac.com/nhl/player/_/id/18147,975000,1.11,775000,200000,2024,1,1,2025,975000,UFA,27-193d,Mar 17 1997,7 Years,NL,Charlottetown,Round 2 (#46 overall) 2015,Vancouver Canucks
+Arturs Silovs,https://www.spotrac.com/nhl/player/_/id/31780,850000,0.97,800000,100000,2024,2,2,2026,1700000,RFA,23-187d,Mar 22 2001,,LV,Riga,Round 6 (#156 overall) 2019,Vancouver Canucks
+Nils Åman,https://www.spotrac.com/nhl/player/_/id/63028,825000,0.94,875000,-,2024,2,2,2026,1650000,RFA,24-231d,Feb 07 2000,,SE,,Round 6 (#167 overall) 2020,Vancouver Canucks
+Nils Åman,https://www.spotrac.com/nhl/player/_/id/63028,825000,0.94,775000,-,2024,2,2,2026,1650000,RFA,24-231d,Feb 07 2000,,SE,,Round 6 (#167 overall) 2020,Vancouver Canucks
+Noah Juulsen,https://www.spotrac.com/nhl/player/_/id/17979,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,27-177d,Apr 02 1997,,CA,Everett,Round 1 (#26 overall) 2015,Vancouver Canucks
+Phillip di Giuseppe,https://www.spotrac.com/nhl/player/_/id/10785,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,30-353d,Oct 09 1993,6 Years,,Michigan,Round 2 (#38 overall) 2012,Vancouver Canucks
+Jack Eichel,https://www.spotrac.com/nhl/player/_/id/17892,10000000,11.36,10000000,-,2018,8,2,2026,80000000,UFA,27-333d,Oct 28 1996,7 Years,US,Boston,Round 1 (#2 overall) 2015,Vegas Golden Knights
+Mark Stone,https://www.spotrac.com/nhl/player/_/id/8404,9500000,10.80,6000000,5000000,2019,8,3,2027,76000000,UFA,32-137d,May 13 1992,10 Years,CA,Brandon,Round 6 (#178 overall) 2010,Vegas Golden Knights
+Alex Pietrangelo,https://www.spotrac.com/nhl/player/_/id/6375,8800000,10.00,4500000,8000000,2020,7,3,2027,61600000,UFA,34-253d,Jan 18 1990,14 Years,CA,Niagara,Round 1 (#4 overall) 2008,Vegas Golden Knights
+Noah Hanifin,https://www.spotrac.com/nhl/player/_/id/17987,7350000,8.35,1000000,8500000,2024,8,8,2032,58800000,UFA,27-244d,Jan 25 1997,8 Years,US,Boston College,Round 1 (#5 overall) 2015,Vegas Golden Knights
+Tomas Hertl,https://www.spotrac.com/nhl/player/_/id/13232,8137500,9.25,7750000,2500000,2022,8,6,2030,65100000,UFA,30-319d,Nov 12 1993,9 Years,CZ,Slavia,Round 1 (#17 overall) 2012,Vegas Golden Knights
+William Karlsson,https://www.spotrac.com/nhl/player/_/id/13162,5900000,6.70,5600000,-,2019,8,3,2027,47200000,UFA,31-262d,Jan 08 1993,8 Years,SE,Vasteras,Round 2 (#53 overall) 2011,Vegas Golden Knights
+Shea Theodore,https://www.spotrac.com/nhl/player/_/id/13567,5200000,5.91,5200000,-,2018,7,1,2025,36400000,UFA,29-55d,Aug 03 1995,7 Years,CA,Seattle,Round 1 (#26 overall) 2013,Vegas Golden Knights
+Ivan Barbashev,https://www.spotrac.com/nhl/player/_/id/15599,5000000,5.68,5400000,-,2023,5,4,2028,25000000,UFA,28-287d,Dec 14 1995,6 Years,RU,Moncton,Round 2 (#33 overall) 2014,Vegas Golden Knights
+Robin Lehner,https://www.spotrac.com/nhl/player/_/id/11838,5000000,5.68,4500000,-,2020,5,1,2025,25000000,UFA,33-66d,Jul 24 1991,9 Years,SE,Sault Ste. Marie,Round 2 (#46 overall) 2009,Vegas Golden Knights
+Adin Hill,https://www.spotrac.com/nhl/player/_/id/18902,4900000,5.57,4200000,-,2023,2,1,2025,9800000,UFA,28-138d,May 11 1996,5 Years,CA,Portland,Round 3 (#76 overall) 2015,Vegas Golden Knights
+Nicolas Roy,https://www.spotrac.com/nhl/player/_/id/18926,3000000,3.41,3000000,-,2022,5,3,2027,15000000,UFA,27-233d,Feb 05 1997,5 Years,CA,Chicoutimi,,Vegas Golden Knights
+Brayden McNabb,https://www.spotrac.com/nhl/player/_/id/8003,2850000,3.24,2200000,-,2022,3,1,2025,8550000,UFA,33-250d,Jan 21 1991,10 Years,CA,Kootenay,Round 3 (#66 overall) 2009,Vegas Golden Knights
+Zach Whitecloud,https://www.spotrac.com/nhl/player/_/id/25012,2750000,3.13,2750000,-,2022,6,4,2028,16500000,UFA,27-302d,Nov 28 1996,4 Years,CA,Bemidji State,Undrafted VGK 2018,Vegas Golden Knights
+Nicolas Hague,https://www.spotrac.com/nhl/player/_/id/23753,2294150,2.61,2700000,-,2022,3,1,2025,6882450,RFA,25-295d,Dec 05 1998,3 Years,CA,Mississauga,Round 2 (#34 overall) 2017,Vegas Golden Knights
+Brett Howden,https://www.spotrac.com/nhl/player/_/id/20311,1900000,2.16,1650000,-,2023,2,1,2025,3800000,UFA,26-181d,Mar 29 1998,4 Years,CA,Moose Jaw,Round 1 (#27 overall) 2016,Vegas Golden Knights
+Pavel Dorofeyev,https://www.spotrac.com/nhl/player/_/id/31703,1835000,2.09,775000,1295000,2024,2,2,2026,3670000,RFA,23-334d,Oct 26 2000,1 Years,RU,Magnitogorsk,Round 3 (#79 overall) 2019,Vegas Golden Knights
+Ilya Samsonov,https://www.spotrac.com/nhl/player/_/id/25720,1800000,2.05,1800000,-,2024,1,1,2025,1800000,UFA,27-216d,Feb 22 1997,3 Years,RU,Magnitogorsk,Round 1 (#22 overall) 2015,Vegas Golden Knights
+Keegan Kolesar,https://www.spotrac.com/nhl/player/_/id/18518,1400000,1.59,1400000,-,2022,3,1,2025,4200000,UFA,27-171d,Apr 08 1997,3 Years,CA,Seattle,Round 3 (#69 overall) 2015,Vegas Golden Knights
+Victor Olofsson,https://www.spotrac.com/nhl/player/_/id/25131,1075000,1.22,1075000,-,2024,1,1,2025,1075000,UFA,29-71d,Jul 18 1995,5 Years,SE,,Round 7 (#181 overall) 2014,Vegas Golden Knights
+Ben Hutton,https://www.spotrac.com/nhl/player/_/id/17937,975000,1.11,975000,-,2024,2,2,2026,1950000,UFA,31-160d,Apr 20 1993,7 Years,CA,Kemptville 73s,Round 5 (#147 overall) 2012,Vegas Golden Knights
+Brendan Brisson,https://www.spotrac.com/nhl/player/_/id/62886,925000,1.05,832500,92500,2022,3,1,2025,2775000,RFA,22-338d,Oct 22 2001,,US,,Round 1 (#29 overall) 2020,Vegas Golden Knights
+Alexander Holtz,https://www.spotrac.com/nhl/player/_/id/62864,894167,1.02,832500,-,2022,3,1,2025,5325000,RFA,22-245d,Jan 23 2002,,SE,,Round 1 (#7 overall) 2020,Vegas Golden Knights
+Tanner Laczynski,https://www.spotrac.com/nhl/player/_/id/20456,775000,0.88,775000,-,2024,2,2,2026,1550000,UFA,27-117d,Jun 01 1997,2 Years,US,Lincoln,Round 6 (#169 overall) 2016,Vegas Golden Knights
+Jonas Rondbjerg,https://www.spotrac.com/nhl/player/_/id/23787,766667,0.87,775000,-,2022,3,1,2025,2300000,RFA,25-179d,Mar 31 1999,,DK,Vaxjo,Round 3 (#65 overall) 2017,Vegas Golden Knights
+Alex Ovechkin,https://www.spotrac.com/nhl/player/_/id/2179,9500000,10.80,5000000,6000000,2021,5,2,2026,47500000,UFA,39-12d,Sep 17 1985,17 Years,RU,Dynamo Moscow,Round 1 (#1 overall) 2004,Washington Capitals
+Nicklas Backstrom,https://www.spotrac.com/nhl/player/_/id/2168,9200000,10.45,6000000,2000000,2020,5,1,2025,46000000,UFA,36-310d,Nov 23 1987,15 Years,SE,Brynas,Round 1 (#4 overall) 2006,Washington Capitals
+Pierre-Luc Dubois,https://www.spotrac.com/nhl/player/_/id/20280,8500000,9.66,8000000,3250000,2023,8,7,2031,68000000,UFA,26-94d,Jun 24 1998,5 Years,CA,Cape Breton,Round 1 (#3 overall) 2016,Washington Capitals
+John Carlson,https://www.spotrac.com/nhl/player/_/id/7201,8000000,9.09,4000000,2000000,2018,8,2,2026,64000000,UFA,34-261d,Jan 10 1990,13 Years,US,London,Round 1 (#27 overall) 2008,Washington Capitals
+Thomas Wilson,https://www.spotrac.com/nhl/player/_/id/10763,6500000,7.39,4000000,5000000,2024,7,7,2031,45500000,UFA,30-182d,Mar 29 1994,9 Years,CA,Plymouth,Round 1 (#16 overall) 2012,Washington Capitals
+Andrew Mangiapane,https://www.spotrac.com/nhl/player/_/id/18864,5800000,6.59,5800000,-,2022,3,1,2025,17400000,UFA,28-175d,Apr 04 1996,6 Years,CA,Barrie,Round 6 (#166 overall) 2015,Washington Capitals
+Matt Roy,https://www.spotrac.com/nhl/player/_/id/21684,5750000,6.53,4000000,3000000,2024,6,6,2030,34500000,UFA,29-210d,Mar 01 1995,4 Years,US,Michigan Tech,Round 7 (#194 overall) 2015,Washington Capitals
+T.J. Oshie,https://www.spotrac.com/nhl/player/_/id/4911,5750000,6.53,3000000,1000000,2017,8,1,2025,46000000,UFA,37-280d,Dec 23 1986,14 Years,US,North Dakota,Round 1 (#24 overall) 2005,Washington Capitals
+Dylan Strome,https://www.spotrac.com/nhl/player/_/id/17894,5000000,5.68,4000000,2000000,2023,5,4,2028,25000000,UFA,27-203d,Mar 07 1997,6 Years,CA,Erie,Round 1 (#3 overall) 2015,Washington Capitals
+Jakob Chychrun,https://www.spotrac.com/nhl/player/_/id/20298,4600000,5.23,6000000,1000000,2019,6,1,2025,27600000,UFA,26-179d,Mar 31 1998,6 Years,US,Sarnia,Round 1 (#16 overall) 2016,Washington Capitals
+Rasmus Sandin,https://www.spotrac.com/nhl/player/_/id/27092,4600000,5.23,3000000,2000000,2024,5,5,2029,23000000,UFA,24-202d,Mar 07 2000,3 Years,SE,Sault Ste. Marie,Round 1 (#29 overall) 2018,Washington Capitals
+Aliaksei Protas,https://www.spotrac.com/nhl/player/_/id/31715,3375000,3.84,2000000,2000000,2024,5,5,2029,16875000,UFA,23-262d,Jan 06 2001,,BY,Prince Albert,Round 3 (#91 overall) 2019,Washington Capitals
+Trevor Van Riemsdyk,https://www.spotrac.com/nhl/player/_/id/15562,3000000,3.41,2000000,1000000,2023,3,2,2026,9000000,UFA,33-66d,Jul 24 1991,8 Years,US,New Hampshire,Undrafted CHI 2014,Washington Capitals
+Martin Fehervary,https://www.spotrac.com/nhl/player/_/id/27115,2675000,3.04,1550000,1000000,2023,3,2,2026,8025000,RFA,24-355d,Oct 06 1999,2 Years,SK,HV 71,Round 2 (#46 overall) 2018,Washington Capitals
+Connor McMichael,https://www.spotrac.com/nhl/player/_/id/31648,2100000,2.39,1600000,500000,2024,2,2,2026,4200000,RFA,23-253d,Jan 15 2001,1 Years,CA,London,Round 1 (#25 overall) 2019,Washington Capitals
+Ethan Bear,https://www.spotrac.com/nhl/player/_/id/20625,2062500,2.34,2750000,-,2023,2,1,2025,4125000,UFA,27-92d,Jun 26 1997,4 Years,CA,Seattle,Round 5 (#124 overall) 2015,Washington Capitals
+Sonny Milano,https://www.spotrac.com/nhl/player/_/id/15842,1900000,2.16,1900000,-,2023,3,2,2026,5700000,UFA,28-137d,May 12 1996,7 Years,,,Round 1 (#16 overall) 2014,Washington Capitals
+Brandon Duhaime,https://www.spotrac.com/nhl/player/_/id/20393,1850000,2.10,2000000,-,2024,2,2,2026,3700000,UFA,27-127d,May 22 1997,1 Years,US,Tri-,Round 4 (#106 overall) 2016,Washington Capitals
+Nic Dowd,https://www.spotrac.com/nhl/player/_/id/16636,1300000,1.48,1000000,-,2022,3,1,2025,3900000,UFA,34-124d,May 27 1990,7 Years,US,St. Cloud State,Round 7 (#197 overall) 2009,Washington Capitals
+Charlie Lindgren,https://www.spotrac.com/nhl/player/_/id/18890,1100000,1.25,1000000,-,2022,3,1,2025,3300000,UFA,30-283d,Dec 18 1993,6 Years,US,St. Cloud State,Undrafted MTL 2016,Washington Capitals
+Taylor Raddysh,https://www.spotrac.com/nhl/player/_/id/20343,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,26-220d,Feb 18 1998,2 Years,CA,Erie,Round 2 (#58 overall) 2016,Washington Capitals
+Hendrix Lapierre,https://www.spotrac.com/nhl/player/_/id/62879,863333,0.98,832500,-,2022,3,1,2025,3502500,RFA,22-228d,Feb 09 2002,,CA,,Round 1 (#22 overall) 2020,Washington Capitals
+Alexander Alexeyev,https://www.spotrac.com/nhl/player/_/id/27094,825000,0.94,875000,-,2023,2,1,2025,1650000,RFA,24-315d,Nov 15 1999,1 Years,RU,Red Deer,Round 1 (#31 overall) 2018,Washington Capitals
+Logan Thompson,https://www.spotrac.com/nhl/player/_/id/48850,766666,0.87,775000,-,2022,3,1,2025,2300000,UFA,27-213d,Feb 25 1997,2 Years,CA,,Undrafted VGK 2020,Washington Capitals
+Connor Hellebuyck,https://www.spotrac.com/nhl/player/_/id/15258,8500000,9.66,5000000,5000000,2024,7,7,2031,59500000,UFA,31-131d,May 19 1993,7 Years,US,Massachusetts-Lowell,Round 5 (#130 overall) 2012,Winnipeg Jets
+Mark Scheifele,https://www.spotrac.com/nhl/player/_/id/8428,8500000,9.66,5000000,5000000,2024,7,7,2031,59500000,UFA,31-196d,Mar 15 1993,11 Years,CA,Barrie,Round 1 (#7 overall) 2011,Winnipeg Jets
+Kyle Connor,https://www.spotrac.com/nhl/player/_/id/18921,7142857,8.12,7500000,-,2019,7,2,2026,50000000,UFA,27-291d,Dec 09 1996,6 Years,US,Michigan,Round 1 (#17 overall) 2015,Winnipeg Jets
+Joshua Morrissey,https://www.spotrac.com/nhl/player/_/id/13600,6250000,7.10,6400000,-,2020,8,4,2028,50000000,UFA,29-183d,Mar 28 1995,7 Years,CA,Prince Albert,Round 1 (#13 overall) 2013,Winnipeg Jets
+Nikolaj Ehlers,https://www.spotrac.com/nhl/player/_/id/15820,6000000,6.82,6750000,-,2018,7,1,2025,42000000,UFA,28-225d,Feb 14 1996,7 Years,DK,Biel,Round 1 (#9 overall) 2014,Winnipeg Jets
+Neal Pionk,https://www.spotrac.com/nhl/player/_/id/22458,5875000,6.68,6000000,-,2021,4,1,2025,23500000,UFA,29-60d,Jul 29 1995,5 Years,US,Minnesota-Duluth,Undrafted NYR 2017,Winnipeg Jets
+Dylan Demelo,https://www.spotrac.com/nhl/player/_/id/9548,4900000,5.57,5500000,-,2024,4,4,2028,19600000,UFA,31-149d,May 01 1993,7 Years,CA,Mississauga,Round 6 (#178 overall) 2011,Winnipeg Jets
+Nino Niederreiter,https://www.spotrac.com/nhl/player/_/id/8785,4000000,4.55,4500000,-,2024,3,3,2027,12000000,UFA,32-19d,Sep 08 1992,11 Years,CH,Portland,Round 1 (#5 overall) 2010,Winnipeg Jets
+Alex Iafallo,https://www.spotrac.com/nhl/player/_/id/21726,4000000,4.55,3700000,-,2021,4,1,2025,16000000,UFA,30-280d,Dec 21 1993,5 Years,US,Minnesota-Duluth,Undrafted LAK 2017,Winnipeg Jets
+Gabe Vilardi,https://www.spotrac.com/nhl/player/_/id/23690,3437500,3.91,3437500,-,2023,2,1,2025,6875000,RFA,25-41d,Aug 16 1999,3 Years,CA,Windsor,Round 1 (#11 overall) 2017,Winnipeg Jets
+Adam Lowry,https://www.spotrac.com/nhl/player/_/id/12238,3250000,3.69,3500000,-,2021,5,2,2026,16250000,UFA,31-182d,Mar 29 1993,8 Years,CA,Swift Current,Round 3 (#67 overall) 2011,Winnipeg Jets
+Mason Appleton,https://www.spotrac.com/nhl/player/_/id/24219,2166666,2.46,2250000,-,2022,3,1,2025,6500000,UFA,28-255d,Jan 15 1996,4 Years,US,,Round 6 (#168 overall) 2015,Winnipeg Jets
+Vladislav Namestnikov,https://www.spotrac.com/nhl/player/_/id/8964,2000000,2.27,2000000,-,2023,2,1,2025,4000000,UFA,31-309d,Nov 22 1992,9 Years,RU,London,Round 1 (#27 overall) 2011,Winnipeg Jets
+Colin Miller,https://www.spotrac.com/nhl/player/_/id/13454,1500000,1.70,1500000,-,2024,2,2,2026,3000000,UFA,31-333d,Oct 29 1992,7 Years,CA,Sault Ste. Marie,Round 5 (#151 overall) 2012,Winnipeg Jets
+Dylan Samberg,https://www.spotrac.com/nhl/player/_/id/23762,1400000,1.59,1500000,-,2023,2,1,2025,2800000,RFA,25-245d,Jan 24 1999,1 Years,US,Waterloo,Round 2 (#43 overall) 2017,Winnipeg Jets
+Morgan Barron,https://www.spotrac.com/nhl/player/_/id/49435,1350000,1.53,1400000,-,2023,2,1,2025,2700000,RFA,25-298d,Dec 02 1998,2 Years,CA,,Round 6 (#174 overall) 2017,Winnipeg Jets
+Logan Stanley,https://www.spotrac.com/nhl/player/_/id/20302,1250000,1.42,1000000,-,2024,2,2,2026,2500000,UFA,26-123d,May 26 1998,2 Years,CA,Windsor,Round 1 (#18 overall) 2016,Winnipeg Jets
+Rasmus Kupari,https://www.spotrac.com/nhl/player/_/id/27063,1000000,1.14,1100000,-,2023,2,1,2025,2000000,RFA,24-194d,Mar 15 2000,2 Years,FI,Hermes,Round 1 (#20 overall) 2018,Winnipeg Jets
+Kaapo Kahkonen,https://www.spotrac.com/nhl/player/_/id/25954,1000000,1.14,1000000,-,2024,1,1,2025,1000000,UFA,28-41d,Aug 16 1996,3 Years,FI,Lukko Rauma,Round 4 (#109 overall) 2014,Winnipeg Jets
+David Gustafsson,https://www.spotrac.com/nhl/player/_/id/27129,835000,0.95,835000,-,2024,2,2,2026,1670000,RFA,24-167d,Apr 11 2000,3 Years,SE,HV 71,Round 2 (#60 overall) 2018,Winnipeg Jets
+Eric Comrie,https://www.spotrac.com/nhl/player/_/id/13782,825000,0.94,825000,-,2024,1,1,2025,825000,UFA,29-83d,Jul 06 1995,7 Years,CA,Tri-City,Round 2 (#59 overall) 2013,Winnipeg Jets
+Ville Heinola,https://www.spotrac.com/nhl/player/_/id/31644,800000,0.91,775000,-,2024,2,2,2026,1600000,RFA,23-207d,Mar 02 2001,,FI,Lukko Rauma,Round 1 (#20 overall) 2019,Winnipeg Jets
+Axel Jonsson-Fjallby,https://www.spotrac.com/nhl/player/_/id/20434,775000,0.88,775000,-,2023,2,1,2025,1550000,UFA,26-228d,Feb 10 1998,1 Years,SE,Djurgarden,Round 5 (#147 overall) 2016,Winnipeg Jets
